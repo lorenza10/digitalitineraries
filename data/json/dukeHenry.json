@@ -1,0 +1,1679 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7217,
+                    49.2325
+                ]
+            },
+            "properties": {
+                "id": 1,
+                "location": "Le Bec-Hellouin",
+                "date": "29-5-1147",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.088611,
+                    49.442778
+                ]
+            },
+            "properties": {
+                "id": 2,
+                "location": "Rouen",
+                "date": "11-10-1147",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.994,
+                    51.353
+                ]
+            },
+            "properties": {
+                "id": 3,
+                "location": "Devizes",
+                "date": "13-4-1149",
+                "comments": "N/A",
+                "OSGrid": "SU0051461547",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.944,
+                    54.891
+                ]
+            },
+            "properties": {
+                "id": 4,
+                "location": "Carlisle",
+                "date": "22-5-1149",
+                "comments": "N/A",
+                "OSGrid": "NY3954755548",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.801,
+                    54.047
+                ]
+            },
+            "properties": {
+                "id": 5,
+                "location": "Lancaster",
+                "date": "1149",
+                "comments": "N/A",
+                "OSGrid": "SD4765161523",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.716,
+                    52.0565
+                ]
+            },
+            "properties": {
+                "id": 6,
+                "location": "Hereford",
+                "date": "1149",
+                "comments": "N/A",
+                "OSGrid": "SO5100440033",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3543,
+                    51.6811
+                ]
+            },
+            "properties": {
+                "id": 7,
+                "location": "Dursley",
+                "date": "1149",
+                "comments": "N/A",
+                "OSGrid": "ST7560198097",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.583333,
+                    51.45
+                ]
+            },
+            "properties": {
+                "id": 8,
+                "location": "Bristol",
+                "date": "1149",
+                "comments": "N/A",
+                "OSGrid": "ST5956172497",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.994,
+                    51.353
+                ]
+            },
+            "properties": {
+                "id": 9,
+                "location": "Devizes",
+                "date": "9-1149",
+                "comments": "N/A",
+                "OSGrid": "SU0051461547",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.716667,
+                    50.716667
+                ]
+            },
+            "properties": {
+                "id": 10,
+                "location": "Devon",
+                "date": "1149",
+                "comments": "N/A",
+                "OSGrid": "SX7890692188",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.7584,
+                    50.7336
+                ]
+            },
+            "properties": {
+                "id": 11,
+                "location": "Bridport",
+                "date": "1149",
+                "comments": "N/A",
+                "OSGrid": "SY4657492939",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.994,
+                    51.353
+                ]
+            },
+            "properties": {
+                "id": 12,
+                "location": "Devizes",
+                "date": "1149",
+                "comments": "N/A",
+                "OSGrid": "SU0051461547",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.088611,
+                    49.442778
+                ]
+            },
+            "properties": {
+                "id": 13,
+                "location": "? Rouen",
+                "date": "1150",
+                "comments": "(Duke of Normandy)",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.088611,
+                    49.442778
+                ]
+            },
+            "properties": {
+                "id": 14,
+                "location": "? Rouen",
+                "date": "1150",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7217,
+                    49.2325
+                ]
+            },
+            "properties": {
+                "id": 15,
+                "location": "? Le Bec-Hellouin",
+                "date": "1150",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.37,
+                    49.18
+                ]
+            },
+            "properties": {
+                "id": 16,
+                "location": "? Caen",
+                "date": "1150",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1975,
+                    48.897222
+                ]
+            },
+            "properties": {
+                "id": 17,
+                "location": "? Falaise",
+                "date": "1150",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9397,
+                    48.6486
+                ]
+            },
+            "properties": {
+                "id": 18,
+                "location": "? Mortain",
+                "date": "1151",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9783,
+                    49.0361
+                ]
+            },
+            "properties": {
+                "id": 19,
+                "location": "Torigni-sur-Vire",
+                "date": "1151",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1269,
+                    49.8817
+                ]
+            },
+            "properties": {
+                "id": 20,
+                "location": "Arques",
+                "date": "1151",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.787148,
+                    49.151726
+                ]
+            },
+            "properties": {
+                "id": 21,
+                "location": "In the Vexin",
+                "date": "1151",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.352222,
+                    48.856613
+                ]
+            },
+            "properties": {
+                "id": 22,
+                "location": "Paris",
+                "date": "8-1151",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.23,
+                    49.15
+                ]
+            },
+            "properties": {
+                "id": 23,
+                "location": "Lisieux",
+                "date": "1151",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4183,
+                    47.6983
+                ]
+            },
+            "properties": {
+                "id": 24,
+                "location": "Chateau-du-Loir",
+                "date": "7-9-1151",
+                "comments": "(death of Count Geoffrey)",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1984,
+                    48.0077
+                ]
+            },
+            "properties": {
+                "id": 25,
+                "location": "Le Mans",
+                "date": "1151",
+                "comments": "(funeral of Count Geoffrey)",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.02,
+                    48.75
+                ]
+            },
+            "properties": {
+                "id": 26,
+                "location": "? Argentan",
+                "date": "1151",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.088611,
+                    49.442778
+                ]
+            },
+            "properties": {
+                "id": 27,
+                "location": "? Rouen",
+                "date": "1151",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7028,
+                    49.2794
+                ]
+            },
+            "properties": {
+                "id": 28,
+                "location": "Bayeux",
+                "date": "11-1151",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7564,
+                    48.5194
+                ]
+            },
+            "properties": {
+                "id": 29,
+                "location": "? Domfront",
+                "date": "1151",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.554167,
+                    47.473612
+                ]
+            },
+            "properties": {
+                "id": 30,
+                "location": "Angers",
+                "date": "9-11-1151",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.103,
+                    47.542
+                ]
+            },
+            "properties": {
+                "id": 31,
+                "location": "Baug�",
+                "date": "1-1-1152",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.554167,
+                    47.473612
+                ]
+            },
+            "properties": {
+                "id": 32,
+                "location": "? Angers",
+                "date": "1152",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.98,
+                    47.4042
+                ]
+            },
+            "properties": {
+                "id": 33,
+                "location": "? Amboise",
+                "date": "1152",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.23,
+                    49.15
+                ]
+            },
+            "properties": {
+                "id": 34,
+                "location": "Lisieux",
+                "date": "6-4-1152",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.088611,
+                    49.442778
+                ]
+            },
+            "properties": {
+                "id": 35,
+                "location": "? Rouen",
+                "date": "1152",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6892,
+                    47.2436
+                ]
+            },
+            "properties": {
+                "id": 36,
+                "location": "? Tours",
+                "date": "1152",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.34,
+                    46.58
+                ]
+            },
+            "properties": {
+                "id": 37,
+                "location": "Poitiers",
+                "date": "18-5-1152",
+                "comments": "(marriage to Eleanor of Aquitaine)",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4183,
+                    47.6983
+                ]
+            },
+            "properties": {
+                "id": 38,
+                "location": "? Chateau-du-Loir",
+                "date": "1152",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1975,
+                    48.897222
+                ]
+            },
+            "properties": {
+                "id": 39,
+                "location": "? Falaise",
+                "date": "1152",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2633,
+                    49.6711
+                ]
+            },
+            "properties": {
+                "id": 40,
+                "location": "Barfleur",
+                "date": "24/6-16/7-1152",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3706,
+                    49.3142
+                ]
+            },
+            "properties": {
+                "id": 41,
+                "location": "Bacqueville",
+                "date": "1152",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5489,
+                    49.2169
+                ]
+            },
+            "properties": {
+                "id": 42,
+                "location": "Guitry",
+                "date": "1152",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.6122,
+                    49.3067
+                ]
+            },
+            "properties": {
+                "id": 43,
+                "location": "�tr�pagny",
+                "date": "1152",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5256,
+                    49.5789
+                ]
+            },
+            "properties": {
+                "id": 44,
+                "location": "La Fert�-Saint-Samson",
+                "date": "1152",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.49,
+                    49.09
+                ]
+            },
+            "properties": {
+                "id": 45,
+                "location": "Vernon",
+                "date": "1152",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3828,
+                    49.0167
+                ]
+            },
+            "properties": {
+                "id": 46,
+                "location": "Pacy-sur-Eure",
+                "date": "1152",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0733,
+                    48.6911
+                ]
+            },
+            "properties": {
+                "id": 47,
+                "location": "Br�zolles",
+                "date": "1152",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3475,
+                    48.8272
+                ]
+            },
+            "properties": {
+                "id": 48,
+                "location": "Marcilly-sur-Eure",
+                "date": "1152",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5367,
+                    48.6511
+                ]
+            },
+            "properties": {
+                "id": 49,
+                "location": "Bonsmoulins",
+                "date": "1152",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0569,
+                    47.2164
+                ]
+            },
+            "properties": {
+                "id": 50,
+                "location": "Montsoreau (nr. Saumur)",
+                "date": "1152",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2633,
+                    49.6711
+                ]
+            },
+            "properties": {
+                "id": 51,
+                "location": "Barfleur",
+                "date": "1152",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1099,
+                    50.686
+                ]
+            },
+            "properties": {
+                "id": 52,
+                "location": "? Wareham",
+                "date": "13-1-1153",
+                "comments": "N/A",
+                "OSGrid": "SY9233387378",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.994,
+                    51.353
+                ]
+            },
+            "properties": {
+                "id": 53,
+                "location": "? Devizes",
+                "date": "1153",
+                "comments": "N/A",
+                "OSGrid": "SU0051461547",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.098,
+                    51.584
+                ]
+            },
+            "properties": {
+                "id": 54,
+                "location": "Malmesbury",
+                "date": "1153",
+                "comments": "N/A",
+                "OSGrid": "ST9330787243",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.583333,
+                    51.45
+                ]
+            },
+            "properties": {
+                "id": 55,
+                "location": "? Bristol",
+                "date": "1153",
+                "comments": "N/A",
+                "OSGrid": "ST5956172497",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2453868,
+                    51.865722
+                ]
+            },
+            "properties": {
+                "id": 56,
+                "location": "? Gloucester",
+                "date": "19-4-1153",
+                "comments": "(Duke of Aquitaine)",
+                "OSGrid": "SO8320018600",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.459,
+                    51.691
+                ]
+            },
+            "properties": {
+                "id": 57,
+                "location": "? Berkeley",
+                "date": "1153",
+                "comments": "N/A",
+                "OSGrid": "ST6836999238",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.947,
+                    52.092
+                ]
+            },
+            "properties": {
+                "id": 58,
+                "location": "? Evesham",
+                "date": "1153",
+                "comments": "N/A",
+                "OSGrid": "SP0372843741",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.089,
+                    52.508
+                ]
+            },
+            "properties": {
+                "id": 59,
+                "location": "? Dudley",
+                "date": "1153",
+                "comments": "N/A",
+                "OSGrid": "SO9405690016",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.133333,
+                    52.633333
+                ]
+            },
+            "properties": {
+                "id": 60,
+                "location": "Leicester",
+                "date": "7-6-1153",
+                "comments": "N/A",
+                "OSGrid": "SK5875204306",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.510556,
+                    52.408056
+                ]
+            },
+            "properties": {
+                "id": 61,
+                "location": "? Coventry",
+                "date": "1153",
+                "comments": "N/A",
+                "OSGrid": "SP 33392 79007",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.59,
+                    52.28
+                ]
+            },
+            "properties": {
+                "id": 62,
+                "location": "Warwick",
+                "date": "1153",
+                "comments": "N/A",
+                "OSGrid": "SP2806864730",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.47,
+                    52.135
+                ]
+            },
+            "properties": {
+                "id": 63,
+                "location": "Bedford",
+                "date": "1153",
+                "comments": "N/A",
+                "OSGrid": "TL0481649626",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.125,
+                    51.599
+                ]
+            },
+            "properties": {
+                "id": 64,
+                "location": "Wallingford",
+                "date": "1153",
+                "comments": "N/A",
+                "OSGrid": "TL5400038328",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.112,
+                    51.599
+                ]
+            },
+            "properties": {
+                "id": 65,
+                "location": "Siege of Crowmarsh",
+                "date": "1153",
+                "comments": "N/A",
+                "OSGrid": "SU6160389280",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.48146188,
+                    52.651142
+                ]
+            },
+            "properties": {
+                "id": 66,
+                "location": "Stamford",
+                "date": "1153",
+                "comments": "N/A",
+                "OSGrid": "TF0282607016",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1530111,
+                    52.954357
+                ]
+            },
+            "properties": {
+                "id": 67,
+                "location": "Nottingham",
+                "date": "1153",
+                "comments": "N/A",
+                "OSGrid": "SK5700040000",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.994,
+                    51.353
+                ]
+            },
+            "properties": {
+                "id": 68,
+                "location": "? Devizes",
+                "date": "1153",
+                "comments": "N/A",
+                "OSGrid": "SU0051461547",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.864,
+                    51.08
+                ]
+            },
+            "properties": {
+                "id": 69,
+                "location": "? Wilton",
+                "date": "1153",
+                "comments": "N/A",
+                "OSGrid": "SU0962331195",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.3193687,
+                    51.062549
+                ]
+            },
+            "properties": {
+                "id": 70,
+                "location": "Winchester",
+                "date": "6-11-1153",
+                "comments": "(with Stephen)",
+                "OSGrid": "SU4779329466",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.092140265,
+                    51.515457
+                ]
+            },
+            "properties": {
+                "id": 71,
+                "location": "London",
+                "date": "1153",
+                "comments": "(with Stephen)",
+                "OSGrid": "TQ3248081340",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12617168,
+                    51.500988
+                ]
+            },
+            "properties": {
+                "id": 72,
+                "location": "Westminster",
+                "date": "1153",
+                "comments": "(with Stephen)",
+                "OSGrid": "TQ3016079670",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2582674,
+                    51.751253
+                ]
+            },
+            "properties": {
+                "id": 73,
+                "location": "Oxford",
+                "date": "13-1-1154",
+                "comments": "(with Stephen)",
+                "OSGrid": "SP5130006100",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.33830962,
+                    51.752638
+                ]
+            },
+            "properties": {
+                "id": 74,
+                "location": "? St. Albans",
+                "date": "1154",
+                "comments": "N/A",
+                "OSGrid": "TL1480007300",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.52102,
+                    51.88603
+                ]
+            },
+            "properties": {
+                "id": 75,
+                "location": "Dunstable",
+                "date": "1154",
+                "comments": "(with Stephen)",
+                "OSGrid": "TL0188821864",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0745524,
+                    51.275608
+                ]
+            },
+            "properties": {
+                "id": 76,
+                "location": "Canterbury",
+                "date": "2-1154",
+                "comments": "(with Stephen)",
+                "OSGrid": "TR1454057430",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3089,
+                    51.1295
+                ]
+            },
+            "properties": {
+                "id": 77,
+                "location": "Dover",
+                "date": "1154",
+                "comments": "(with Stephen)",
+                "OSGrid": "TR3161341898",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.092140265,
+                    51.515457
+                ]
+            },
+            "properties": {
+                "id": 78,
+                "location": "London",
+                "date": "1154",
+                "comments": "N/A",
+                "OSGrid": "TQ3248081340",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.50145239,
+                    51.389355
+                ]
+            },
+            "properties": {
+                "id": 79,
+                "location": "Rochester",
+                "date": "3-3-1154",
+                "comments": "N/A",
+                "OSGrid": "TQ7414268559",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4206,
+                    50.0481
+                ]
+            },
+            "properties": {
+                "id": 80,
+                "location": "? Eu",
+                "date": "1154",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7217,
+                    45.1929
+                ]
+            },
+            "properties": {
+                "id": 81,
+                "location": "? Perigueux",
+                "date": "1154",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.051667,
+                    47.181389
+                ]
+            },
+            "properties": {
+                "id": 82,
+                "location": "Fontevrault",
+                "date": "21-5-1154",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1984,
+                    48.0077
+                ]
+            },
+            "properties": {
+                "id": 83,
+                "location": "Le Mans",
+                "date": "1154",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.37,
+                    49.18
+                ]
+            },
+            "properties": {
+                "id": 84,
+                "location": "? Caen",
+                "date": "1154",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.23,
+                    49.15
+                ]
+            },
+            "properties": {
+                "id": 85,
+                "location": "? Lisieux",
+                "date": "1154",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.088611,
+                    49.442778
+                ]
+            },
+            "properties": {
+                "id": 86,
+                "location": "Rouen",
+                "date": "24-6-1154",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.787148,
+                    49.151726
+                ]
+            },
+            "properties": {
+                "id": 88,
+                "location": "In the Vexin with Louis VII",
+                "date": "1-10-1154",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9433,
+                    48.9614
+                ]
+            },
+            "properties": {
+                "id": 89,
+                "location": "? Lire in the forest of Conches",
+                "date": "1154",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9783,
+                    49.0361
+                ]
+            },
+            "properties": {
+                "id": 90,
+                "location": "Torigni ",
+                "date": "25-10-1154",
+                "comments": "(15 days' siege, during which news received of Stephen's death)",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2633,
+                    49.6711
+                ]
+            },
+            "properties": {
+                "id": 91,
+                "location": "Barfleur",
+                "date": "1/11-7/12-1154",
+                "comments": "(waiting for favourable wind)",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.26,
+                    49.28
+                ]
+            },
+            "properties": {
+                "id": 92,
+                "location": "Hostreham",
+                "date": "8-12-1154",
+                "comments": "N/A",
+                "OSGrid": "",
+                "nation": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.3193687,
+                    51.062549
+                ]
+            },
+            "properties": {
+                "id": 93,
+                "location": "Winchester",
+                "date": "1154",
+                "comments": "N/A",
+                "OSGrid": "SU4779329466",
+                "nation": "England"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12617168,
+                    51.500988
+                ]
+            },
+            "properties": {
+                "id": 94,
+                "location": "Westminster",
+                "date": "19-12-1154",
+                "comments": "(coronation)",
+                "OSGrid": "TQ3016079670",
+                "nation": "England"
+            }
+        }
+    ]
+}

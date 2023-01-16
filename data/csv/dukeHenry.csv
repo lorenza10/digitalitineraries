@@ -1,0 +1,95 @@
+id,day,month,year,date,location,OSGrid,latitude,longitude,nation,comments
+1,29,May,1147,29-5-1147,Le Bec-Hellouin,,49.2325,0.7217,France,N/A
+2,11,Oct,1147,11-10-1147,Rouen,,49.442778,1.088611,France,N/A
+3,13,Apr,1149,13-4-1149,Devizes,SU0051461547,51.353,-1.994,England,N/A
+4,22,May,1149,22-5-1149,Carlisle,NY3954755548,54.891,-2.944,England,N/A
+5,,,1149,1149,Lancaster,SD4765161523,54.047,-2.801,England,N/A
+6,,,1149,1149,Hereford,SO5100440033,52.0565,-2.716,England,N/A
+7,,,1149,1149,Dursley,ST7560198097,51.6811,-2.3543,England,N/A
+8,,,1149,1149,Bristol,ST5956172497,51.45,-2.583333,England,N/A
+9,,?Sept,1149,9-1149,Devizes,SU0051461547,51.353,-1.994,England,N/A
+10,,,1149,1149,Devon,SX7890692188,50.716667,-3.716667,England,N/A
+11,,,1149,1149,Bridport,SY4657492939,50.7336,-2.7584,England,N/A
+12,,,1149,1149,Devizes,SU0051461547,51.353,-1.994,England,N/A
+13,,,1150,1150,? Rouen,,49.442778,1.088611,France,(Duke of Normandy)
+14,,,1150,1150,? Rouen,,49.442778,1.088611,France,N/A
+15,,,1150,1150,? Le Bec-Hellouin,,49.2325,0.7217,France,N/A
+16,,,1150,1150,? Caen,,49.18,-0.37,France,N/A
+17,,,1150,1150,? Falaise,,48.897222,-0.1975,France,N/A
+18,,,1151,1151,? Mortain,,48.6486,-0.9397,France,N/A
+19,,,1151,1151,Torigni-sur-Vire,,49.0361,-0.9783,France,N/A
+20,,,1151,1151,Arques,,49.8817,1.1269,France,N/A
+21,,,1151,1151,In the Vexin,,49.151726,1.787148,France,N/A
+22,,Late Aug,1151,8-1151,Paris,,48.856613,2.352222,France,N/A
+23,,,1151,1151,Lisieux,,49.15,0.23,France,N/A
+24,7,Sept,1151,7-9-1151,Chateau-du-Loir,,47.6983,0.4183,France,(death of Count Geoffrey)
+25,,,1151,1151,Le Mans,,48.0077,0.1984,France,(funeral of Count Geoffrey)
+26,,,1151,1151,? Argentan,,48.75,-0.02,France,N/A
+27,,,1151,1151,? Rouen,,49.442778,1.088611,France,N/A
+28,,Nov,1151,11-1151,Bayeux,,49.2794,-0.7028,France,N/A
+29,,,1151,1151,? Domfront,,48.5194,-0.7564,France,N/A
+30,9,Nov,1151,9-11-1151,Angers,,47.473612,-0.554167,France,N/A
+31,1,Jan,1152,1-1-1152,Baugé,,47.542,-0.103,France,N/A
+32,,,1152,1152,? Angers,,47.473612,-0.554167,France,N/A
+33,,,1152,1152,? Amboise,,47.4042,0.98,France,N/A
+34,6,Apr,1152,6-4-1152,Lisieux,,49.15,0.23,France,N/A
+35,,,1152,1152,? Rouen,,49.442778,1.088611,France,N/A
+36,,,1152,1152,? Tours,,47.2436,0.6892,France,N/A
+37,c. 18,May,1152,18-5-1152,Poitiers,,46.58,0.34,France,(marriage to Eleanor of Aquitaine)
+38,,,1152,1152,? Chateau-du-Loir,,47.6983,0.4183,France,N/A
+39,,,1152,1152,? Falaise,,48.897222,-0.1975,France,N/A
+40,24 June-16 July,,1152,24/6-16/7-1152,Barfleur,,49.6711,-1.2633,France,N/A
+41,,,1152,1152,Bacqueville,,49.3142,1.3706,France,N/A
+42,,,1152,1152,Guitry,,49.2169,1.5489,France,N/A
+43,,,1152,1152,Étrépagny,,49.3067,1.6122,France,N/A
+44,,,1152,1152,La Ferté-Saint-Samson,,49.5789,1.5256,France,N/A
+45,,,1152,1152,Vernon,,49.09,1.49,France,N/A
+46,,,1152,1152,Pacy-sur-Eure,,49.0167,1.3828,France,N/A
+47,,,1152,1152,Brézolles,,48.6911,1.0733,France,N/A
+48,,,1152,1152,Marcilly-sur-Eure,,48.8272,1.3475,France,N/A
+49,,,1152,1152,Bonsmoulins,,48.6511,0.5367,France,N/A
+50,,,1152,1152,Montsoreau (nr. Saumur),,47.2164,0.0569,France,N/A
+51,,,1152,1152,Barfleur,,49.6711,-1.2633,France,N/A
+52,c. 13,Jan,1153,13-1-1153,? Wareham,SY9233387378,50.686,-2.1099,England,N/A
+53,,,1153,1153,? Devizes,SU0051461547,51.353,-1.994,England,N/A
+54,,,1153,1153,Malmesbury,ST9330787243,51.584,-2.098,England,N/A
+55,,,1153,1153,? Bristol,ST5956172497,51.45,-2.583333,England,N/A
+56,? 19,Apr,1153,19-4-1153,? Gloucester,SO8320018600,51.865722,-2.2453868,England,(Duke of Aquitaine)
+57,,,1153,1153,? Berkeley,ST6836999238,51.691,-2.459,England,N/A
+58,,,1153,1153,? Evesham,SP0372843741,52.092,-1.947,England,N/A
+59,,,1153,1153,? Dudley,SO9405690016,52.508,-2.089,England,N/A
+60,7,June,1153,7-6-1153,Leicester,SK5875204306,52.633333,-1.133333,England,N/A
+61,,,1153,1153,? Coventry,SP 33392 79007,52.408056,-1.510556,England,N/A
+62,,,1153,1153,Warwick,SP2806864730,52.28,-1.59,England,N/A
+63,,,1153,1153,Bedford,TL0481649626,52.135,-0.47,England,N/A
+64,,,1153,1153,Wallingford,TL5400038328,51.599,-1.125,England,N/A
+65,,,1153,1153,Siege of Crowmarsh,SU6160389280,51.599,-1.112,England,N/A
+66,,,1153,1153,Stamford,TF0282607016,52.651142,-0.48146188,England,N/A
+67,,,1153,1153,Nottingham,SK5700040000,52.954357,-1.1530111,England,N/A
+68,,,1153,1153,? Devizes,SU0051461547,51.353,-1.994,England,N/A
+69,,,1153,1153,? Wilton,SU0962331195,51.08,-1.864,England,N/A
+70,6,Nov,1153,6-11-1153,Winchester,SU4779329466,51.062549,-1.3193687,England,(with Stephen)
+71,,,1153,1153,London,TQ3248081340,51.515457,-0.092140265,England,(with Stephen)
+72,,,1153,1153,Westminster,TQ3016079670,51.500988,-0.12617168,England,(with Stephen)
+73,13,Jan,1154,13-1-1154,Oxford,SP5130006100,51.751253,-1.2582674,England,(with Stephen)
+74,,,1154,1154,? St. Albans,TL1480007300,51.752638,-0.33830962,England,N/A
+75,,,1154,1154,Dunstable,TL0188821864,51.88603,-0.52102,England,(with Stephen)
+76,,Feb,1154,2-1154,Canterbury,TR1454057430,51.275608,1.0745524,England,(with Stephen)
+77,,,1154,1154,Dover,TR3161341898,51.1295,1.3089,England,(with Stephen)
+78,,,1154,1154,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+79,c. 3,Mar,1154,3-3-1154,Rochester,TQ7414268559,51.389355,0.50145239,England,N/A
+80,,,1154,1154,? Eu,,50.0481,1.4206,France,N/A
+81,,,1154,1154,? Perigueux,,45.1929,0.7217,France,N/A
+82,21,May,1154,21-5-1154,Fontevrault,,47.181389,0.051667,France,N/A
+83,,,1154,1154,Le Mans,,48.0077,0.1984,France,N/A
+84,,,1154,1154,? Caen,,49.18,-0.37,France,N/A
+85,,,1154,1154,? Lisieux,,49.15,0.23,France,N/A
+86,24,June,1154,24-6-1154,Rouen,,49.442778,1.088611,France,N/A
+87,,Aug,1154,1154,Peace with Louis VII,,,,,N/A
+88,1,Oct,1154,1-10-1154,In the Vexin with Louis VII,,49.151726,1.787148,France,N/A
+89,,,1154,1154,? Lire in the forest of Conches,,48.9614,0.9433,France,N/A
+90,c. 25,Oct,1154,25-10-1154,Torigni,,49.0361,-0.9783,France,"(15 days' siege, during which news received of Stephen's death)"
+91,c. 1 Nov. — 7 Dec.,,1154,1/11-7/12-1154,Barfleur,,49.6711,-1.2633,France,(waiting for favourable wind)
+92,8,Dec,1154,8-12-1154,Hostreham,,49.28,-0.26,France,N/A
+93,,,1154,1154,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+94,19,Dec,1154,19-12-1154,Westminster,TQ3016079670,51.500988,-0.12617168,England,(coronation)
