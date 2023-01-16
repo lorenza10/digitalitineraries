@@ -95,6 +95,7 @@ function getData(url) {
 
                 noUiSlider.create(slider, {
                     start: [min],
+                    stop: [max],
                     step: 1,
                     animate: false,
                     animationDuration: 5000,
