@@ -17,11 +17,11 @@
         integrity="sha256-T0Vest3yCU7pafRw9r+settMBX6JkKN06dqBnpQ8d30=" crossorigin="anonymous"></script>
     <link href="css/nouislider.css" rel="stylesheet">
     <script src="js/nouislider.js"></script>
-    <script src="js/main.js"></script>
+    <script src="js/compare.js"></script>
     <link href="css/style.css" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <title>Digital Itineraries</title>
+    <title>Digital Itineraries - Compare</title>
 </head>
 
 <body onload="getData()">
@@ -35,7 +35,7 @@
     <div id="overlay">
         <div class="row justify-content-center">
             <div class="col">
-                <h3>Monarch</h3>
+                <h3>Monarch 1 - Blue</h3>
                 <select id="monarch" tabindex="0" onchange="getData();">
                     <option id="countGeoffrey" value="countGeoffrey" selected>Count Geoffrey of Anjou</option>
                     <option id="dukeHenry" value="dukeHenry">Duke Henry of Anjou</option>
@@ -48,32 +48,24 @@
                 </select>
             </div>
             <div class="col">
-                <h3>Location</h3>
-                <div type="text" id="displayLocation">Location</div>
+                <h3>Monarch 2 - Red</h3>
+                <select id="monarch2" tabindex="0" onchange="getData();">
+                    <option id="countGeoffrey" value="countGeoffrey">Count Geoffrey of Anjou</option>
+                    <option id="dukeHenry" value="dukeHenry" selected>Duke Henry of Anjou</option>
+                    <option id="edward2" value="edward2">Edward II of England</option>
+                    <option id="empressMatilda" value="empressMatilda">Empress Matilda</option>
+                    <option id="henryFirst" value="henryFirst">Henry I of England</option>
+                    <option id="kingJohn" value="kingJohn">John of England</option>
+                    <option id="stephen" value="stephen">Stephen of England</option>
+                    <option id="williamTheConqueror" value="williamTheConqueror">William I of England</option>
+                </select>
             </div>
-            <div class="col">
-                <h3>Date</h3>
-                <div type="text" id="displayDate">Date</div>
-            </div>
+
         </div>
-        <div id="slider" class="sliderContainer" value="20"></div>
-        <div class='wrapper text-center'>
-            <div class="btn-group play" data-toggle="buttons" role="group" aria-label="button group">
-                <button id="play" class="btn btn-secondary">Play</button>
-                <button type='button' id="pause" class="btn btn-secondary">Pause</button>
-                <button id="restart" class="btn btn-secondary">Restart</button>
-            </div>
-            <div class="btn-group move" data-toggle="buttons" role="group" aria-label="button group">
-                <button id="prev" class="btn btn-secondary">Previous</button>
-                <button id="next" class="btn btn-secondary">Next</button>
-                <button id="all" class="btn btn-secondary">Display All</button>
-            </div>
-        </div>
-    </div>
-    <div id="mapid" class="mapid"></div>
-    <footer>
-        <div>Contact Us - digitalitineraries@gmail.com</div>
-    </footer>
+        <div id="mapid" class="mapid"></div>
+        <footer>
+            <div>Contact Us - digitalitineraries@gmail.com</div>
+        </footer>
 </body>
 
 </html>
