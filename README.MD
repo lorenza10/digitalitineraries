@@ -9,4 +9,4 @@ digitalitineraries@gmail.com
 
 # Webpage
 [Digital Itineraries Website](https://lorenza10.github.io/digitalitineraries)
-<iframe src="https://lorenza10.github.io/digitalitineraries/" style="width:100%; height:300px;"></iframe>
+![Map Screenshot](map_screenshot.JPG)
