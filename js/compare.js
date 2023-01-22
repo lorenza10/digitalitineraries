@@ -69,7 +69,7 @@ function getData(url) {
                     arrayOfProps.forEach(function (prop) {
                         html += '<strong>' + prop + '</strong>' + ': ' + geoJsonPoint.properties[prop] + '<br/>'
                     })
-                    return L.circle(latlng, 5000).bindPopup(html);
+                    return L.circle(latlng, 6000).bindPopup(html);
                 },
             }).addTo(map);
         })
