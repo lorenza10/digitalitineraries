@@ -49,7 +49,7 @@ function getData(url) {
             monarchGeoJSON = L.geoJSON(json, {
                 style: function (feature) {
                     return {
-                        fillOpacity: 1,
+                        fillOpacity: 0.65,
                         fillColor: 'blue',
                         color: '#000',
                         opacity: 1
@@ -64,7 +64,7 @@ function getData(url) {
                     })
                     layer.on('mouseout', function () {
                         layer.setStyle({
-                            fillOpacity: 1
+                            fillOpacity: 0.65
                         })
                         $('#country-information').html(layer.feature.properties.name + '(' + layer.feature.id + ')');
                     })

@@ -37,7 +37,7 @@ function getData(url) {
             monarchGeoJSON = L.geoJSON(json, {
                 style: function (feature) {
                     return {
-                        fillOpacity: 1,
+                        fillOpacity: 0.65,
                         fillColor: 'blue',
                         color: '#000',
                         opacity: 1
@@ -52,7 +52,7 @@ function getData(url) {
                     })
                     layer.on('mouseout', function () {
                         layer.setStyle({
-                            fillOpacity: 1
+                            fillOpacity: 0.65
                         })
                         $('#country-information').html(layer.feature.properties.name + '(' + layer.feature.id + ')');
                     })
@@ -64,10 +64,12 @@ function getData(url) {
                     if (geoJsonPoint.properties.id > max) {
                         max = geoJsonPoint.properties.id;
                     }
-                    var html = '';
+                    monarchName = document.getElementById('monarch')
+                    var selectedText = monarchName.options[monarchName.selectedIndex].text;
+                    var html = selectedText;
                     var arrayOfProps = ['location', 'id', 'date', 'comments'];
                     arrayOfProps.forEach(function (prop) {
-                        html += '<strong>' + prop + '</strong>' + ': ' + geoJsonPoint.properties[prop] + '<br/>'
+                        html += '<br/>' + '<strong>' + prop + '</strong>' + ': ' + geoJsonPoint.properties[prop]
                     })
                     return L.circle(latlng, 6000).bindPopup(html);
                 },
@@ -111,10 +113,12 @@ function getData(url) {
                     if (geoJsonPoint.properties.id > max) {
                         max = geoJsonPoint.properties.id;
                     }
-                    var html = '';
+                    monarchName2 = document.getElementById('monarch2')
+                    var selectedText2 = monarchName2.options[monarchName2.selectedIndex].text;
+                    var html = selectedText2;
                     var arrayOfProps = ['location', 'id', 'date', 'comments'];
                     arrayOfProps.forEach(function (prop) {
-                        html += '<strong>' + prop + '</strong>' + ': ' + geoJsonPoint.properties[prop] + '<br/>'
+                        html += '<br/>' + '<strong>' + prop + '</strong>' + ': ' + geoJsonPoint.properties[prop]
                     })
                     return L.circle(latlng, 5000).bindPopup(html);
                 },
