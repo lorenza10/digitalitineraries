@@ -1,0 +1,1495 @@
+id,day,month,year,month(no),date,location,OSGridRef,latitude ,longitude,Nation,comments
+1,7,December,1154,12,7-12-1154,Barfleur,,49.6711,-1.2633,France,"Henry, Duke of Normandy, embarked at Barfleur for England.  The ' Duchess Alianora' accompanied 3 him, as did his two brothers, Geoffrey and William."
+2,8,December,1154,12,8-12-1154,Hampshire (New Forest),SU2581608959,50.879,-1.633,England,Duke Henry landed near the New Forest.
+3,8,December,1154,12,8-12-1154,Winchester,SU4779329466,51.062549,-1.3193687,England,"Duke Henry next proceeded to Winchester, where several Nobles met him, to do fealty."
+4,19,December,1154,12,19-12-1154,Westminster,TQ3016079670,51.500988,-0.12617168,England,King Henry crowned at Westminster
+5,25,December,1154,12,25-12-1154,Bermondsey,TQ3355679549,51.4986,-0.0757,England,Henry held his Court at Bermondsey.
+6,c.4,January,1155,1,c.4-1-1155,Oxford,SP5130006100,51.751253,-1.2582674,England,N/A
+7,13,January,1155,1,13-1-1155,Oxford,SP5130006100,51.751253,-1.2582674,England,N/A
+8,,January,1155,1,1-1155,Silverston,SP6696743966,52.09,-1.024,England,N/A
+9,,January,1155,1,1-1155,Northampton,SP7549060562,52.238083,-0.89592755,England,N/A
+10,,January,1155,1,1-1155,King's Cliff,TL0048197493,52.566,-0.519,England,N/A
+11,,January,1155,1,1-1155,Peterborough,TL1951097985,52.566193,-0.236574,England,N/A
+12,,January,1155,1,1-1155,Ramsey,TL2774685263,52.45,-0.12,England,Monastery
+13,,January,1155,1,1-1155,Thorney,TF2819904392,52.62179,-0.10595,England,Monastery
+14,,January,1155,1,1-1155,Spalding,TF2455422550,52.7858,-0.1529,England,Monastery
+15,,January,1155,1,1-1155,Lincoln,SK9746471804,53.234336,-0.54124564,England,N/A
+16,,February,1155,2,2-1155,York,SE6048651973,53.960106,-1.078017,England,N/A
+17,,February,1155,2,2-1155,Scarborough,TA0405588046,54.2773,-0.4017,England,N/A
+18,,February,1155,2,2-1155,Nottingham,SK5700040000,52.954357,-1.1530111,England,N/A
+19,,February,1155,2,2-1155,Burton upon Trent,SK2459322771,52.801944,-1.636667,England,N/A
+20,,February,1155,2,2-1155,Alrewas,SK1694714996,52.732,-1.749,England,N/A
+21,,February,1155,2,2-1155,Radmore,SK0441812359,52.708539,-1.934595,England,Abbey (later hunting lodge)
+22,c.27,March,1155,3,c.27-3-1155,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+23,c.27,March,1155,3,c.27-3-1155,Westminster,TQ3016079670,51.500988,-0.12617168,England,N/A
+24,10,April,1155,4,10-4-1155,Wallingford,SU6059889321,51.599,-1.125,England,The King holds a great Council at Wallingford
+25,,May,1155,5,5-1155,Cleobury Mortimer,SO6718675758,52.3785,-2.4821,England,"Immediately after the Council of Wallingford, the King went to suppress the rebellion of Hugh de Mortimer.  The sieges of Cleobury, Wigmore, and Bridgenorth, occupied most of the summer."
+26,,May,1155,5,5-1155,Wigmore,SO4130269091,52.3164,-2.8612,England,"Immediately after the Council of Wallingford, the King went to suppress the rebellion of Hugh de Mortimer.  The sieges of Cleobury, Wigmore, and Bridgenorth, occupied most of the summer."
+27,,May,1155,5,5-1155,Bridgenorth,SO7164293098,52.535,-2.4195,England,"Immediately after the Council of Wallingford, the King went to suppress the rebellion of Hugh de Mortimer.  The sieges of Cleobury, Wigmore, and Bridgenorth, occupied most of the summer."
+28,7,July,1155,7,7-7-1155,Bridgenorth,SO7164293098,52.535,-2.4195,England,"A great Council was summoned to Bridgenorth, whereat the terms of the ""King's Peace"" with Mortimer were settled."
+29,,July,1155,7,7-1155,Worcester,SO8496354929,52.192,-2.22,England,"A great Council was summoned to Bridgenorth, whereat the terms of the ""King's Peace"" with Mortimer were settled."
+30,,August,1155,8,8-1155,Worcester,SO8496354929,52.192,-2.22,England,N/A
+31,,September,1155,9,9-1155,Worcester,SO8496354929,52.192,-2.22,England,N/A
+32,,September,1155,9,9-1155,Salisbury,SU1471230154,51.07,-1.79,England,N/A
+33,29,September,1155,9,29-9-1155,Winchester,SU4779329466,51.062549,-1.3193687,England,The King held a great Council at Winchester
+34,,,1155,,1155,Cricklade,SU0996393639,51.641,-1.856,England,N/A
+35,,,1155,,1155,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+36,,,1155,,1155,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+37,,,1155,,1155,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+38,,,1155,,1155,Newbury,SU4708967157,51.401,-1.323,England,N/A
+39,,,1155,,1155,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+40,25,December,1155,12,25-12-1155,Westminster,TQ3016079670,51.500988,-0.12617168,England,The King held a Council at Westminster.
+41,c.1,January,1156,1,c.1-1-1156,Canterbury,TR1454057430,51.275608,1.0745524,England,"The King probably went to Canterbury, after the Council of Westminster."
+42,2,January,1156,1,2-1-1156,Dover,TR3161341898,51.1295,1.3089,England,N/A
+43,3,January,1156,1,3-1-1156,Dover,TR3161341898,51.1295,1.3089,England,N/A
+44,4,January,1156,1,4-1-1156,Dover,TR3161341898,51.1295,1.3089,England,N/A
+45,5,January,1156,1,5-1-1156,Dover,TR3161341898,51.1295,1.3089,England,N/A
+46,6,January,1156,1,6-1-1156,Dover,TR3161341898,51.1295,1.3089,England,N/A
+47,7,January,1156,1,7-1-1156,Dover,TR3161341898,51.1295,1.3089,England,N/A
+48,8,January,1156,1,8-1-1156,Dover,TR3161341898,51.1295,1.3089,England,N/A
+49,9,January,1156,1,9-1-1156,Dover,TR3161341898,51.1295,1.3089,England,N/A
+50,10,January,1156,1,10-1-1156,Dover,TR3161341898,51.1295,1.3089,England,N/A
+51,,January,1156,1,1-1156,Wissant (Witsand),,50.8861,1.6636,France,"The King embarks from Dover, and lands at Witsand, in Picardy."
+52,,January,1156,1,1-1156,St. Omer,,50.7461,2.2617,France,N/A
+53,2,February,1156,2,2-2-1156,Rouen,,49.442778,1.088611,France,N/A
+54,5,February,1156,2,5-2-1156,Marches of Normandy,,49.09293671,1.600701688,France,"K. Henry holds a conference with Louis VII. on the Marches of borders of France and Normandy and does homage to the French King for Normandy, Anjou, Touraine, Maine, and Aquitaine"
+55,,February,1156,2,2-1156,Mirebeau,,46.7858,0.1825,France,King Henry besieges Mirebeau
+56,,February,1156,2,2-1156,Chinon,,47.1678,0.2436,France,King Henry besieges Chinon
+57,c.,May,1156,5,c.5-1156,Loudun,,47.0106,0.0844,France,"The King reduces Mirebeau and Chinon, after long sieges.  Londun (in Touraine) is surrendered to him."
+58,c.,July,1156,7,c.7-1156,Chinon,,47.1678,0.2436,France,N/A
+59,29,August,1156,8,29-8-1156,Saumur,,47.26,-0.0769,France,"The Abbot of Battle, having crossed the sea, finds the King at Saumur (in Anjou) ."
+60,29,September,1156,9,29-9-1156,Anjou,,47.473612,-0.554167,France,The King is assumed to have been still in Anjou.
+61,30,September,1156,9,30-9-1156,Domfront,,48.5194,-0.7564,France,N/A
+62,30,September,1156,9,30-9-1156,Pont-Audemer,,49.356389,0.515556,France,N/A
+63,30,September,1156,9,30-9-1156,Caen,,49.18,-0.37,France,N/A
+64,,October,1156,10,10-1156,Limoges,,45.8353,1.2625,France,N/A
+65,c.11,November,1156,11,c.11-11-1156,Argentan,,48.75,-0.02,France,N/A
+66,25,December,1156,12,25-12-1156,Bourdeaux,,44.84,-0.58,France,N/A
+67,31,December,1156,12,31-12-1156,Guienne,,43.977,-0.176,France,N/A
+68,,January,1157,1,1-1157,Mortain,,48.6486,-0.9397,France,Early in this year the King is stated to have visited Mortain.
+69,,January,1157,1,1-1157,Falaise,,48.897222,-0.1975,France,N/A
+70,,,1157,,1157,Caen,,49.18,-0.37,France,"There are several Charters which probably passed either in the last three months of the year 1156, or the first three months of 1157. I quote them, with no assumption as to their exacter date or relative sequence."
+71,,,1157,,1157,Bayeux,,49.2794,-0.7028,France,N/A
+72,,,1157,,1157,Rouen,,49.442778,1.088611,France,N/A
+73,,,1157,,1157,Valognes,,49.52,-1.47,France,N/A
+74,c.,March,1157,3,c.3-1157,Cherbourg,,49.63,-1.62,France,N/A
+75,c.,March,1157,3,c.3-1157,Barfleur,,49.6711,-1.2633,France,N/A
+76,c.1,April,1157,4,c.1-4-1157,Barfleur,,49.6711,-1.2633,France,N/A
+77,c.8,April,1157,4,c.8-4-1157,Southampton,SU4189211677,50.9025,-1.404167,England,"The King embarks at Barfleur, lands at Southampton and proceeds to London"
+78,,April,1157,4,4-1157,London,TQ3248081340,51.515457,-0.092140265,England,"The King embarks at Barfleur, lands at Southampton and proceeds to London"
+79,,April,1157,4,4-1157,Ongar,TL 55447 03085,51.70497371,0.2482287591,England,The King is next heard of at Richard de Lucy's Castle of Ongar in Essex
+80,,April,1157,4,4-1157,Norwich,TG2322108686,52.63,1.297,England,N/A
+81,,April,1157,4,4-1157,Thetford,TL8634382684,52.41,0.74,England,N/A
+82,19,May,1157,5,19-5-1157,Bury St. Edmunds,TL8566764505,52.2474,0.7183,England,The King was crowned at Bury St. Edmunds
+83,23,May,1157,5,23-5-1157,Colchester,TL9985525443,51.8917,0.903,England,N/A
+84,24,May,1157,5,24-5-1157,Colchester,TL9985525443,51.8917,0.903,England,N/A
+85,25,May,1157,5,25-5-1157,Colchester,TL9985525443,51.8917,0.903,England,N/A
+86,26,May,1157,5,26-5-1157,Colchester,TL9985525443,51.8917,0.903,England,N/A
+87,27,May,1157,5,27-5-1157,Colchester,TL9985525443,51.8917,0.903,England,N/A
+88,28,May,1157,5,28-5-1157,Colchester,TL9985525443,51.8917,0.903,England,N/A
+89,c.,June,1157,6,c.6-1157,Waltham,TL6944613455,51.793598,0.45738,England,Either Great Waltham or Little Waltham
+90,c.,June,1157,6,c.6-1157,Writtle,TL6759106203,51.729,0.427,England,N/A
+91,17,July,1157,7,17-7-1157,Northampton,SP7549060562,52.238083,-0.89592755,England,The King holds a Great Council at Northampton.
+92,,July,1157,7,7-1157,Peak Castle,SK1483282641,53.3402,-1.7772,England,N/A
+93,,July,1157,7,7-1157,Chester,SJ4063166249,53.19,-2.89,England,The King invades North Wales.
+94,,July,1157,7,7-1157,Counsylth,SJ2866467444,53.199,-3.068,Wales,The English army falls into an ambuscade near Basingwerk (at Counsylth).
+95,c.,August,1157,8,c.8-1157,Snowdon,SH6090554410,53.068497,-4.076231,Wales,The King penetrates as far as Snowdon.
+96,c.,August,1157,8,c.8-1157,Rhuddlan,SJ0243178478,53.294,-3.464,Wales,The King fortifies the castle of Rhudlan
+97,c.,August,1157,8,c.8-1157,Basingwerk,SJ1948077492,53.288,-3.208,Wales,The King fortifies the castle of Basingwerk
+98,c.,August,1157,8,c.8-1157,Chester,SJ4063166249,53.19,-2.89,England,N/A
+99,c.,August,1157,8,c.8-1157,Tamworth,SK2063903999,52.633,-1.695,England,N/A
+100,c.,September,1157,9,c.9-1157,Malmesbury,ST9330787243,51.584,-2.098,England,Abbey
+101,c.,September,1157,9,c.9-1157,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+102,c.,September,1157,9,c.9-1157,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+103,8,September,1157,9,8-9-1157,Oxford,SP5130006100,51.751253,-1.2582674,England,N/A
+104,,October,1157,10,10-1157,Oxford,SP5130006100,51.751253,-1.2582674,England,N/A
+105,,October,1157,10,10-1157,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+106,,October,1157,10,10-1157,Brill,SP6543913911,51.82,-1.052,England,(in Buckinghamshire)
+107,c.,December,1157,12,c.12-1157,Stamford,TF0253307592,52.656,-0.484,England,N/A
+108,c.25,December,1157,12,c.25-12-1157,Wikeford (Lincoln),SK9731470450,53.2222,-0.5439,England,"The King was crowned at Wikeford, a suburb of the City of Lincoln.  (Likely to be Wigford)"
+109,c.,January,1158,1,c.1-1158,Carlisle,NY3954755548,54.891,-2.944,England,N/A
+110,,January,1158,1,1-1158,Castle of Wark,NT8235038710,55.64162,-2.28196,England,"The King fortifies the Castle of Were, i.e., Wark in Wark, or Werk. Northumberland."
+111,,January,1158,1,1-1158,Newcastle upon Tyne,NZ2198568180,55.0077,-1.6578,England,N/A
+112,,January,1158,1,1-1158,Doncaster,SE5741703562,53.525594,-1.1353707,England,N/A
+113,,January,1158,1,1-1158,Peak Castle,SK1483282641,53.3402,-1.7772,England,N/A
+114,,January,1158,1,1-1158,York,SE6048651973,53.960106,-1.078017,England,N/A
+115,,January,1158,1,1-1158,Nottingham,SK5700040000,52.954357,-1.1530111,England,N/A
+116,,,1158,,1158,Woodstock,SP4449616513,51.845,-1.354,England,"During February and March 1158 the King probably visited Oxfordshire, Hampshire, and Wiltshire."
+117,,,1158,,1158,Brockenhurst,SU2968202357,50.82,-1.58,England,"During February and March 1158 the King probably visited Oxfordshire, Hampshire, and Wiltshire."
+118,,,1158,,1158,Salisbury,SU1471230154,51.07,-1.79,England,"During February and March 1158 the King probably visited Oxfordshire, Hampshire, and Wiltshire."
+119,,,1158,,1158,Clarendon,SU1820130173,51.0706,-1.7416,England,"During February and March 1158 the King probably visited Oxfordshire, Hampshire, and Wiltshire."
+120,20,April,1158,4,20-4-1158,Worcester,SO8496354929,52.192,-2.22,England,"This being Easter Day, is probably the date when the King and Queen were crowned at Worcester."
+121,,April,1158,4,4-1158,Tewkesbury,SO8901432453,51.99,-2.16,England,N/A
+122,,,1158,,1158,Shropshire,SJ5148402379,52.616667,-2.716667,England,April to August 1158
+123,,,1158,,1158,Gloucestershire,SO8851615031,51.833333,-2.166667,England,April to August 1158
+124,,,1158,,1158,Wells,ST5494945837,51.209444,-2.645,England,April to August 1158
+125,,,1158,,1158,Cheddar,ST4574153661,51.279,-2.778,England,April to August 1158
+126,,,1158,,1158,Clarendon,SU1820130173,51.0706,-1.7416,England,April to August 1158
+127,,,1158,,1158,Woodstock,SP4449616513,51.845,-1.354,England,April to August 1158
+128,,,1158,,1158,Evesham,SP0372843741,52.092,-1.947,England,April to August 1158
+129,,,1158,,1158,Hereford,SO5100440033,52.0565,-2.716,England,April to August 1158
+130,,,1158,,1158,Gloucester,SO8320018600,51.865722,-2.2453868,England,April to August 1158
+131,,,1158,,1158,Newnham,SO6897411740,51.803,-2.45,England,April to August 1158
+132,,,1158,,1158,Windsor,SU9691277019,51.483333,-0.604167,England,April to August 1158
+133,,,1158,,1158,Reading,SU7134673352,51.454167,-0.973056,England,April to August 1158
+134,,,1158,,1158,Patmer,TL 45204 25819,51.91198367,0.1096185238,England,Possibly Patmer Manor
+135,,,1158,,1158,Westminster,TQ3016079670,51.500988,-0.12617168,England,April to August 1158
+136,,,1158,,1158,South Wales,ST0437699242,51.683333,-3.383333,Wales,"August, July, August"
+137,,August,1158,8,8-1158,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+138,14,August,1158,8,14-8-1158,Portsmouth,SU6430901157,50.805833,-1.087222,England,Portsmouth or Southampton
+139,,August,1158,8,8-1158,Gisors,,49.2811,1.7772,France,Appears as 'Inter Gisors' in the text.  King Henry holds a conference with Louis VII on the River Epte.
+140,,August,1158,8,8-1158,Neufmarché,,49.4244,1.7164,France,King Henry holds a conference with Louis VII on the River Epte.
+141,8,September,1158,9,8-9-1158,Argentan,,48.75,-0.02,France,N/A
+142,,September,1158,9,9-1158,Paris,,48.856613,2.352222,France,King Henry visits Paris.
+143,,September,1158,9,9-1158,Mantes,,48.9908,1.7172,France,N/A
+144,29,September,1158,9,29-9-1158,Avranches,,48.685,-1.3556,France,N/A
+145,,October,1158,10,10-1158,Mont St. Michael,,48.636,-1.511,France,N/A
+146,,October,1158,10,10-1158,St. Jacques,,47.54889175,-2.823575199,France,Brittany
+147,,October,1158,10,10-1158,Pont Orson,,48.5534,-1.5068,France,N/A
+148,c.9,October,1158,10,c.9-10-1158,Nantes,,47.2181,-1.5528,France,N/A
+149,,October,1158,10,10-1158,Thouars,,46.9758,-0.2142,France,The King besieges and takes Thouars
+150,,October,1158,10,10-1158,Le Mans,,48.0077,0.1984,France,"The King goes to Le Mans, and ther meets Louis of France"
+151,23,November,1158,11,23-11-1158,Mont St. Michael,,48.636,-1.511,France,The King accompanies Louis VII visiting Mont St. Michael
+152,,November,1158,11,11-1158,Avranches,,48.685,-1.3556,France,Both Henry and Louis VII adjourn to Avranches
+153,,November,1158,11,11-1158,Bayeux,,49.2794,-0.7028,France,K. Henry is next found at Bayeux (Baieux) with Louis VII
+154,,November,1158,11,11-1158,Caen,,49.18,-0.37,France,At Caen entertaining Louis VII
+155,,November,1158,11,11-1158,Pacey,,49.0167,1.3828,France,At Rouen entertaining Louis VII
+156,,November,1158,11,11-1158,Évreux,,49.02,1.15,France,Appears as 'Evereux' in the text
+157,,November,1158,11,11-1158,Neufbourg,,48.6578,-0.9464,France,N/A
+158,,November,1158,11,11-1158,Bec,,49.2288,0.722,France,N/A
+159,,December,1158,12,12-1158,Amboise,,47.4042,0.98,France,N/A
+160,,December,1158,12,12-1158,Fréteval,,47.8886,1.2106,France,N/A
+161,,December,1158,12,12-1158,Moulins,,46.5653,3.3333,France,N/A
+162,,December,1158,12,12-1158,Bonmoulins,,48.6511,0.5367,France,Appears as 'Bon Moulins' in the text
+163,25,December,1158,12,25-12-1158,Cherbourg,,49.63,-1.62,France,N/A
+164,,January,1159,1,1-1159,Rouen,,49.442778,1.088611,France,N/A
+165,,January,1159,1,1-1159,Argentan,,48.75,-0.02,France,N/A
+166,,January,1159,1,1-1159,Rouen,,49.442778,1.088611,France,N/A
+167,,March,1159,3,3-1159,Normandy,,48.88,0.17,France,N/A
+168,,April,1159,4,4-1159,Blaye Castle,,45.13,-0.665833,France,Appears to be Rudel Castle
+169,,April,1159,4,4-1159,Poitiers,,46.58,0.34,France,Appears as 'Poictiers' in text
+170,21,May,1159,5,21-5-1159,Bec Hellouin,,49.2325,0.7217,France,N/A
+171,22,May,1159,5,22-5-1159,Bec Hellouin,,49.2325,0.7217,France,N/A
+172,23,May,1159,5,23-5-1159,Bec Hellouin,,49.2325,0.7217,France,N/A
+173,24,May,1159,5,24-5-1159,Rouen,,49.442778,1.088611,France,N/A
+174,6,June,1159,6,6-6-1159,Hilliricourt,,,,France,N/A
+175,7,June,1159,6,7-6-1159,Hilliricourt,,,,France,N/A
+176,8,June,1159,6,8-6-1159,Hilliricourt,,,,France,N/A
+177,24,June,1159,6,24-6-1159,Poitiers,,46.58,0.34,France,Appears as 'Poictiers' in text
+178,,June,1159,6,6-1159,Saintes,,45.7464,-0.6333,France,N/A
+179,c.30,June,1159,6,c.30-6-1159,Périgueux,,45.1929,0.7217,France,Appears as 'Perigueux' in the text
+180,1,July,1159,7,1-7-1159,Agen,,44.2049,0.6212,France,(Guienne)
+181,2,July,1159,7,2-7-1159,Agen,,44.2049,0.6212,France,(Guienne)
+182,3,July,1159,7,3-7-1159,Agen,,44.2049,0.6212,France,(Guienne)
+183,,July,1159,7,7-1159,Auvillar,,44.0703,0.9006,France,(Gascony).  Appears as 'Auvillards' in the text
+184,,July,1159,7,7-1159,Toulouse,,43.6045,1.444,France,(Languedoc)
+185,,September,1159,9,9-1159,Toulouse,,43.6045,1.444,France,"The King of England is still before Toulouse, when Louis of France throws himself into the town, adopting the cause of its defender."
+186,26,September,1159,9,26-9-1159,Toulouse,,43.6045,1.444,France,King Henry breaks up the siege of Toulouse.
+187,,September,1159,9,9-1159,Cahors,,44.4483,1.4414,France,"The King goes first to Cahors, which he fortifies."
+188,c.,October,1159,10,c.10-1159,Uzerche,,45.4256,1.5642,France,(Limousin)
+189,,October,1159,10,10-1159,Limoges,,45.8353,1.2625,France,N/A
+190,,October,1159,10,10-1159,Beauvais,,49.4303,2.0952,France,"King Henry, having arrived in Normandy, invades Louis's territory about Beauvais (pagum Belvacensem)."
+191,,November,1159,11,11-1159,Guerberoi,,49.535,1.8506,France,King Henry destroys the Border Fortress of Guerberoi.
+192,,November,1159,11,11-1159,Estrepagni,,49.3067,1.6122,France,Likely to be Étrépagny
+193,25,December,1159,12,25-12-1159,Falaise,,48.897222,-0.1975,France,N/A
+194,,,1160,,1160,Argentan,,48.75,-0.02,France,Some time in the first half of 1160 the King would seem to have been at Argentan.
+195,,,1160,,1160,Rouen,,49.442778,1.088611,France,"May or June,"
+196,,July,1160,7,7-1160,Neufmarché,,49.4244,1.7164,France,N/A
+197,,October,1160,10,10-1160,Marches of Normandy,,49.09293671,1.600701688,France,K. Henry and Louis renew peaceful engagements.
+198,2,November,1160,11,2-11-1160,Neufbourg,,48.6578,-0.9464,France,N/A
+199,,November,1160,11,11-1160,Gisors,,49.2811,1.7772,France,K. Henry builds the Castles of Gisors
+200,,November,1160,11,11-1160,Neaufles,,49.2790008,1.725900295,France,K. Henry builds the Castles of Neaufles
+201,,November,1160,11,11-1160,Neufchâtel,,49.73,1.44,France,K. Henry builds the Castles of Neufchâtel
+202,25,December,1160,12,25-12-1160,Le Mans,,48.0077,0.1984,France,N/A
+203,,January,1161,1,1-1161,Gisors,,49.2811,1.7772,France,N/A
+204,,January,1161,1,1-1161,Rouen,,49.442778,1.088611,France,N/A
+205,,February,1161,2,2-1161,Caen,,49.18,-0.37,France,The King founds a Leper-house at Caen.
+206,,February,1161,2,2-1161,Osmanville ,,49.3294,-1.08,France,The King builds a Castle at Osmanville (Amandivillam) Osmanviiie. on the River Vire.
+207,1,March,1161,3,1-3-1161,Mortemer Abbey,,49.3696,1.4807,France,The King was at the Abbey of Mortimer-en-Lions.  (It being the first day of Lent)
+208,,March,1161,3,3-1161,Lyons-la-Forêt,,49.4003,1.4769,France,Appears as 'Leons' or 'Lions-la-Forêt' in the text
+209,,March,1161,3,3-1161,Le Mans,,48.0077,0.1984,France,N/A
+210,,May,1161,5,5-1161,The Vexin,,49.155,1.7875,France,N/A
+211,,May,1161,5,5-1161,The Dunois,,48.0717,1.3387,France,N/A
+212,,May,1161,5,5-1161,Les Andelys,,49.2461,1.4125,France,Also 'Andele' in the text
+213,30,June,1161,6,30-6-1161,Castellion,,44.855556,-0.040556,France,"Castle in Guienne, above the town of Aden"
+214,10,August,1161,8,10-8-1161,Castellion,,44.855556,-0.040556,France,Appears as 'Châtillon'
+215,,October,1161,10,10-1161,Fréteval,,47.8886,1.2106,France,A peace between Henry and Louis negotiated at Fréteval
+216,25,December,1161,12,25-12-1161,Bayeux,,49.2794,-0.7028,France,Appears as 'Baieux' in the text
+217,25,February,1162,2,25-2-1162,Rouen,,49.442778,1.088611,France,"K. Henry holds a Council at Rouen, which was adjourned to Lillebone"
+218,,February,1162,2,2-1162,Lillebonne,,49.5189,0.5343,France,Appears in the text as 'Lillebone'
+219,,February,1162,2,2-1162,Fécamp,,49.76,0.38,France,N/A
+220,c.8,April,1162,4,c.8-4-1162,Rouen,,49.442778,1.088611,France,N/A
+221,,May,1162,5,5-1162,Falaise,,48.897222,-0.1975,France,N/A
+222,,June,1162,6,6-1162,Chinon,,47.1678,0.2436,France,N/A
+223,,September,1162,9,9-1162,Touci,,47.2372,0.1278,France,(or Choisi).  Likely to be Chouzé-sur-Loire
+224,18,September,1162,9,18-9-1162,Déols,,46.8308,1.7067,France,K. Henry supposed to have been at Deols.  Deols was in Berri
+225,,December,1162,12,12-1162,Barfleur,,49.6711,-1.2633,France,N/A
+226,25,December,1162,12,25-12-1162,Cherbourg,,49.63,-1.62,France,N/A
+227,25,January,1163,1,25-1-1163,Southampton,SU4189211677,50.9025,-1.404167,England,N/A
+228,,February,1163,2,2-1163,Oxford,SP5130006100,51.751253,-1.2582674,England,N/A
+229,,February,1163,2,2-1163,Salisbury,SU1471230154,51.07,-1.79,England,N/A
+230,3,March,1163,3,3-3-1163,London,TQ3248081340,51.515457,-0.092140265,England,The King holds a Council in London.
+231,6,March,1163,3,6-3-1163,London,TQ3248081340,51.515457,-0.092140265,England,The King still in London.
+232,8,March,1163,3,8-3-1163,Westminster,TQ3016079670,51.500988,-0.12617168,England,The King is sitting in Curia at Westminster.
+233,17,March,1163,3,17-3-1163,Canterbury,TR1454057430,51.275608,1.0745524,England,N/A
+234,19,March,1163,3,19-3-1163,Dover,TR3161341898,51.1295,1.3089,England,N/A
+235,,March,1163,3,3-1163,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+236,31,March,1163,3,31-3-1163,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+237,,April,1163,4,4-1163,Reading,SU7134673352,51.454167,-0.973056,England,N/A
+238,,April,1163,4,4-1163,Wallingford,SU6059889321,51.599,-1.125,England,N/A
+239,,April,1163,4,4-1163,Carmarthenshire,SN4089620075,51.856111,-4.310556,Wales,"From Wallingford the King, accompanied by Richard de Luci, goes on an expedition against Wales. The English Wales, army ravages Carmarthenshire. "
+240,,June,1163,6,6-1163,Carlisle,NY3954755548,54.891,-2.944,England,N/A
+241,,June,1163,6,6-1163,York,SE6048651973,53.960106,-1.078017,England,N/A
+242,1,July,1163,7,1-7-1163,Woodstock,SP4449616513,51.845,-1.354,England,"The King is at Woodstock, where Malcolm, King of Scotland, Rese, Prince of South Wales, and Owen, Prince of North Wales, attend and do homage to him and his son."
+243,2,July,1163,7,2-7-1163,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+244,3,July,1163,7,3-7-1163,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+245,4,July,1163,7,4-7-1163,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+246,5,July,1163,7,5-7-1163,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+247,6,July,1163,7,6-7-1163,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+248,7,July,1163,7,7-7-1163,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+249,,July,1163,7,7-1163,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+250,,August,1163,8,8-1163,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+251,1,October,1163,10,1-10-1163,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+252,2,October,1163,10,2-10-1163,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+253,,October,1163,10,10-1163,Northampton,SP7549060562,52.238083,-0.89592755,England,N/A
+254,,October,1163,10,10-1163,Gloucester,SO8320018600,51.865722,-2.2453868,England,N/A
+255,,October,1163,10,10-1163,Peak Castle,SK1483282641,53.3402,-1.7772,England,N/A
+256,,October,1163,10,10-1163,Lincoln,SK9746471804,53.234336,-0.54124564,England,N/A
+257,,December,1163,12,12-1163,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+258,,December,1163,12,12-1163,Oxford,SP5130006100,51.751253,-1.2582674,England,Oxford Castle
+259,25,December,1163,12,25-12-1163,Berkhampstead,SP9937607724,51.759399,-0.56154726,England,Hertfordshire
+260,26,December,1163,12,26-12-1163,Berkhampstead,SP9937607724,51.759399,-0.56154726,England,Hertfordshire
+261,27,December,1163,12,27-12-1163,Berkhampstead,SP9937607724,51.759399,-0.56154726,England,Hertfordshire
+262,28,December,1163,12,28-12-1163,Berkhampstead,SP9937607724,51.759399,-0.56154726,England,Hertfordshire
+263,29,December,1163,12,29-12-1163,Berkhampstead,SP9937607724,51.759399,-0.56154726,England,Hertfordshire
+264,30,December,1163,12,30-12-1163,Berkhampstead,SP9937607724,51.759399,-0.56154726,England,Hertfordshire
+265,31,December,1163,12,31-12-1163,Berkhampstead,SP9937607724,51.759399,-0.56154726,England,Hertfordshire
+266,13,January,1164,1,13-1-1164,Clarendon,SU1820130173,51.0706,-1.7416,England,The King and his son Henry preside over the Council of clarendon. Clarendon.
+267,14,January,1164,1,14-1-1164,Clarendon,SU1820130173,51.0706,-1.7416,England,The King and his son Henry preside over the Council of clarendon. Clarendon.
+268,15,January,1164,1,15-1-1164,Clarendon,SU1820130173,51.0706,-1.7416,England,The King and his son Henry preside over the Council of clarendon. Clarendon.
+269,16,January,1164,1,16-1-1164,Clarendon,SU1820130173,51.0706,-1.7416,England,The King and his son Henry preside over the Council of clarendon. Clarendon.
+270,17,January,1164,1,17-1-1164,Clarendon,SU1820130173,51.0706,-1.7416,England,The King and his son Henry preside over the Council of clarendon. Clarendon.
+271,18,January,1164,1,18-1-1164,Clarendon,SU1820130173,51.0706,-1.7416,England,The King and his son Henry preside over the Council of clarendon. Clarendon.
+272,19,January,1164,1,19-1-1164,Clarendon,SU1820130173,51.0706,-1.7416,England,The King and his son Henry preside over the Council of clarendon. Clarendon.
+273,20,January,1164,1,20-1-1164,Clarendon,SU1820130173,51.0706,-1.7416,England,The King and his son Henry preside over the Council of clarendon. Clarendon.
+274,21,January,1164,1,21-1-1164,Clarendon,SU1820130173,51.0706,-1.7416,England,The King and his son Henry preside over the Council of clarendon. Clarendon.
+275,22,January,1164,1,22-1-1164,Clarendon,SU1820130173,51.0706,-1.7416,England,The King and his son Henry preside over the Council of clarendon. Clarendon.
+276,23,January,1164,1,23-1-1164,Clarendon,SU1820130173,51.0706,-1.7416,England,The King and his son Henry preside over the Council of clarendon. Clarendon.
+277,24,January,1164,1,24-1-1164,Clarendon,SU1820130173,51.0706,-1.7416,England,The King and his son Henry preside over the Council of clarendon. Clarendon.
+278,25,January,1164,1,25-1-1164,Clarendon,SU1820130173,51.0706,-1.7416,England,The King and his son Henry preside over the Council of clarendon. Clarendon.
+279,26,January,1164,1,26-1-1164,Clarendon,SU1820130173,51.0706,-1.7416,England,The King and his son Henry preside over the Council of clarendon. Clarendon.
+280,27,January,1164,1,27-1-1164,Clarendon,SU1820130173,51.0706,-1.7416,England,The King and his son Henry preside over the Council of clarendon. Clarendon.
+281,28,January,1164,1,28-1-1164,Clarendon,SU1820130173,51.0706,-1.7416,England,The King and his son Henry preside over the Council of clarendon. Clarendon.
+282,,March,1164,3,3-1164,Portchester,SU6195205150,50.842,-1.12,England,Appears as 'Porchester' in text
+283,,March,1164,3,3-1164,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+284,12,April,1164,4,12-4-1164,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+285,19,April,1164,4,19-4-1164,Reading,SU7134673352,51.454167,-0.973056,England,N/A
+286,,,1164,,1164,Gloucestershire,SO8851615031,51.833333,-2.166667,England,N/A
+287,,,1164,,1164,Worcestershire,SO8861055809,52.2,-2.166667,England,N/A
+288,,,1164,,1164,Herefordshire,SO4861343086,52.083333,-2.75,England,N/A
+289,,,1164,,1164,Shropshire,SJ5148402379,52.616667,-2.716667,England,N/A
+290,24,August,1164,8,24-8-1164,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+291,25,August,1164,8,25-8-1164,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+292,26,August,1164,8,26-8-1164,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+293,27,August,1164,8,27-8-1164,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+294,28,August,1164,8,28-8-1164,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+295,29,August,1164,8,29-8-1164,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+296,30,August,1164,8,30-8-1164,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+297,31,August,1164,8,31-8-1164,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+298,1,September,1164,9,1-9-1164,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+299,2,September,1164,9,2-9-1164,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+300,3,September,1164,9,3-9-1164,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+301,4,September,1164,9,4-9-1164,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+302,5,September,1164,9,5-9-1164,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+303,6,September,1164,9,6-9-1164,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+304,7,September,1164,9,7-9-1164,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+305,8,September,1164,9,8-9-1164,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+306,9,September,1164,9,9-9-1164,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+307,10,September,1164,9,10-9-1164,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+308,14,September,1164,9,14-9-1164,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+309,6,October,1164,10,6-10-1164,Northampton,SP7549060562,52.238083,-0.89592755,England,N/A
+310,7,October,1164,10,7-10-1164,Northampton,SP7549060562,52.238083,-0.89592755,England,N/A
+311,8,October,1164,10,8-10-1164,Northampton,SP7549060562,52.238083,-0.89592755,England,N/A
+312,9,October,1164,10,9-10-1164,Northampton,SP7549060562,52.238083,-0.89592755,England,N/A
+313,10,October,1164,10,10-10-1164,Northampton,SP7549060562,52.238083,-0.89592755,England,N/A
+314,11,October,1164,10,11-10-1164,Northampton,SP7549060562,52.238083,-0.89592755,England,N/A
+315,12,October,1164,10,12-10-1164,Northampton,SP7549060562,52.238083,-0.89592755,England,N/A
+316,13,October,1164,10,13-10-1164,Northampton,SP7549060562,52.238083,-0.89592755,England,N/A
+317,14,October,1164,10,14-10-1164,Northampton,SP7549060562,52.238083,-0.89592755,England,N/A
+318,15,October,1164,10,15-10-1164,Northampton,SP7549060562,52.238083,-0.89592755,England,N/A
+319,16,October,1164,10,16-10-1164,Northampton,SP7549060562,52.238083,-0.89592755,England,N/A
+320,17,October,1164,10,17-10-1164,Northampton,SP7549060562,52.238083,-0.89592755,England,N/A
+321,18,October,1164,10,18-10-1164,Northampton,SP7549060562,52.238083,-0.89592755,England,N/A
+322,19,October,1164,10,19-10-1164,Northampton,SP7549060562,52.238083,-0.89592755,England,N/A
+323,20,October,1164,10,20-10-1164,Northampton,SP7549060562,52.238083,-0.89592755,England,The Council of Northampton broke up ; the King pro- Northampton. nouncing sentence against Becket.
+324,,,1164,,1164,Yorkshire,SE0000056017,54,-2,England,N/A
+325,,,1164,,1164,Nottingham,SK5700040000,52.954357,-1.1530111,England,N/A
+326,,,1164,,1164,Peak Castle,SK1483282641,53.3402,-1.7772,England,N/A
+327,,,1164,,1164,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+328,,,1164,,1164,Oxford,SP5130006100,51.751253,-1.2582674,England,N/A
+329,,,1164,,1164,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+330,,,1164,,1164,Surrey,TQ1049051339,51.25,-0.416667,England,N/A
+331,,,1164,,1164,St Briavels,SO5595004450,51.736571,-2.637979,England,Appears as 'St. Briavell's' in the text
+332,24,December,1164,12,24-12-1164,Marlborough,SU1887169033,51.42,-1.73,England,N/A
+333,25,December,1164,12,25-12-1164,Marlborough,SU1887169033,51.42,-1.73,England,N/A
+334,26,December,1164,12,26-12-1164,Marlborough,SU1887169033,51.42,-1.73,England,N/A
+335,,January,1165,1,1-1165,Westminster,TQ3016079670,51.500988,-0.12617168,England,N/A
+336,,February,1165,2,2-1165,Southampton,SU4189211677,50.9025,-1.404167,England,N/A
+337,,February,1165,2,2-1165,Dover,TR3161341898,51.1295,1.3089,England,"Perhaps the King, on this occasion embarked at Dover"
+338,17,February,1165,2,17-2-1165,Mortimer,,49.7517,1.5511,France,The King said to have been at Mortimer.  Likely to be Mortemer
+339,11,April,1165,4,11-4-1165,Gisors,,49.2811,1.7772,France,N/A
+340,15,April,1165,4,15-4-1165,Rouen,,49.442778,1.088611,France,N/A
+341,15,May,1165,5,15-5-1165,Angers,,47.473612,-0.554167,France,N/A
+342,,May,1165,5,5-1165,Barfleur,,49.6711,-1.2633,France,N/A
+343,,May,1165,5,5-1165,Southampton,SU4189211677,50.9025,-1.404167,England,He appears to have landed at Southampton.
+344,,May,1165,5,5-1165,Surrey,TQ1049051339,51.25,-0.416667,England,N/A
+345,,May,1165,5,5-1165,Rhuddlan,SJ0243178478,53.294,-3.464,Wales,Appears as 'Rhuddian' in the text
+346,,May,1165,5,5-1165,Basingwerk,SJ1948077492,53.288,-3.208,Wales,"The King fortifies Basingwerk and all his Castles in Flintshire, and returns to England to augment his forces."
+347,31,July,1165,7,31-7-1165,Shrewsbury,SJ4906312564,52.708,-2.754,England,N/A
+348,31,July,1165,7,31-7-1165,Oswestry,SJ2905829701,52.8598,-3.0538,England,N/A
+349,,August,1165,8,8-1165,Powys,SO0340867863,52.3,-3.416667,Wales,Appears as 'Powys-Land' in text
+350,,August,1165,8,8-1165,The Ceiriog,SJ3281939682,52.95,-3,Wales,[The King] advanced to the Valley and River of the Ceiriog.
+351,,August,1165,8,8-1165,The Berwin,SJ0722332719,52.8839,-3.3802,Wales,Henry marched onward to the foot of the Berwin
+352,,August,1165,8,8-1165,Chester,SJ4063166249,53.19,-2.89,England,Benry now retired to Chester.
+353,,August,1165,8,8-1165,Wirhall,SJ3281189382,53.396972,-3.011914,England,Likely to be Wirral
+354,,September,1165,9,9-1165,Brewood ,SJ8834408816,52.67692,-2.17383,England,Staffordshire
+355,,September,1165,9,9-1165,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+356,,September,1165,9,9-1165,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+357,,September,1165,9,9-1165,Clarendon,SU1820130173,51.0706,-1.7416,England,N/A
+358,,,1165,,1165,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+359,,,1165,,1165,Rochester,TQ7397767015,51.375,0.5,England,N/A
+360,,,1165,,1165,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+361,,,1165,,1165,Clarendon,SU1820130173,51.0706,-1.7416,England,Estimate of location
+362,,,1165,,1165,Salisbury,SU1471230154,51.07,-1.79,England,Estimate of location
+363,,,1165,,1165,Chippenham,ST9205173287,51.4585,-2.1158,England,Estimate of location
+364,,,1165,,1165,Woodstock,SP4449616513,51.845,-1.354,England,Estimate of location
+365,,,1165,,1165,Oxford,SP5130006100,51.751253,-1.2582674,England,Estimate of location
+366,,,1165,,1165,Westminster,TQ3016079670,51.500988,-0.12617168,England,N/A
+367,,,1165,,1165,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+368,,,1165,,1165,Salisbury,SU1471230154,51.07,-1.79,England,N/A
+369,,,1165,,1165,King's Cliff,TL0048197493,52.566,-0.519,England,N/A
+370,25,December,1165,12,25-12-1165,Oxford,SP5130006100,51.751253,-1.2582674,England,N/A
+371,31,December,1165,12,31-12-1165,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+372,,January,1166,1,1-1166,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+373,,February,1166,2,2-1166,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+374,,February,1166,2,2-1166,Clarendon,SU1820130173,51.0706,-1.7416,England,N/A
+375,1,March,1166,3,1-3-1166,Feckenham,SP0083161317,52.250033,-1.989251,England,Worcestershire
+376,2,March,1166,3,2-3-1166,Feckenham,SP0083161317,52.250033,-1.989251,England,Worcestershire
+377,3,March,1166,3,3-3-1166,Feckenham,SP0083161317,52.250033,-1.989251,England,Worcestershire
+378,4,March,1166,3,4-3-1166,Feckenham,SP0083161317,52.250033,-1.989251,England,Worcestershire
+379,5,March,1166,3,5-3-1166,Feckenham,SP0083161317,52.250033,-1.989251,England,Worcestershire
+380,6,March,1166,3,6-3-1166,Feckenham,SP0083161317,52.250033,-1.989251,England,Worcestershire
+381,7,March,1166,3,7-3-1166,Feckenham,SP0083161317,52.250033,-1.989251,England,Worcestershire
+382,8,March,1166,3,8-3-1166,Feckenham,SP0083161317,52.250033,-1.989251,England,Worcestershire
+383,9,March,1166,3,9-3-1166,Feckenham,SP0083161317,52.250033,-1.989251,England,Worcestershire
+384,10,March,1166,3,10-3-1166,Feckenham,SP0083161317,52.250033,-1.989251,England,Worcestershire
+385,11,March,1166,3,11-3-1166,Feckenham,SP0083161317,52.250033,-1.989251,England,Worcestershire
+386,12,March,1166,3,12-3-1166,Feckenham,SP0083161317,52.250033,-1.989251,England,Worcestershire
+387,13,March,1166,3,13-3-1166,Feckenham,SP0083161317,52.250033,-1.989251,England,Worcestershire
+388,13,March,1166,3,13-3-1166,Salisbury,SU1471230154,51.07,-1.79,England,Worcestershire
+389,,March,1166,3,3-1166,Clarendon,SU1820130173,51.0706,-1.7416,England,N/A
+390,,March,1166,3,3-1166,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+391,15,March,1166,3,15-3-1166,Portchester,SU6195205150,50.842,-1.12,England,Appears as 'Porchester' in text
+392,16,March,1166,3,16-3-1166,Portchester,SU6195205150,50.842,-1.12,England,Appears as 'Porchester' in text
+393,16,March,1166,3,16-3-1166,Southampton,SU4189211677,50.9025,-1.404167,England,N/A
+394,17,March,1166,3,17-3-1166,Southampton,SU4189211677,50.9025,-1.404167,England,N/A
+395,18,March,1166,3,18-3-1166,Southampton,SU4189211677,50.9025,-1.404167,England,N/A
+396,19,March,1166,3,19-3-1166,Southampton,SU4189211677,50.9025,-1.404167,England,N/A
+397,20,March,1166,3,20-3-1166,Southampton,SU4189211677,50.9025,-1.404167,England,N/A
+398,21,March,1166,3,21-3-1166,Southampton,SU4189211677,50.9025,-1.404167,England,N/A
+399,22,March,1166,3,22-3-1166,Southampton,SU4189211677,50.9025,-1.404167,England,N/A
+400,23,March,1166,3,23-3-1166,Southampton,SU4189211677,50.9025,-1.404167,England,N/A
+401,,March,1166,3,3-1166,Falaise,,48.897222,-0.1975,France,N/A
+402,,,1166,,1166,Maine,,48,0.2,France,"King Henry, on landing in Normandy, marched forthwith into Maine"
+403,,,1166,,1166,Alençon,,48.4306,0.0931,France,Castle
+404,,,1166,,1166,La-Roche-Mabile,,48.4906,-0.05,France,Castle
+405,24,April,1166,4,24-4-1166,Angers,,47.473612,-0.554167,France,N/A
+406,10,May,1166,5,10-5-1166,Le Mans,,48.0077,0.1984,France,King Henry holds a Council at Le Mans.
+407,17,May,1166,5,17-5-1166,Le Mans,,48.0077,0.1984,France,K. Henry holds another Council at Le Mans
+408,1,June,1166,6,1-6-1166,Chinon,,47.1678,0.2436,France,"K. Henry holds a Council at Chinon, in Touraine."
+409,10,June,1166,6,10-6-1166,Chinon,,47.1678,0.2436,France,"At this time K. Henry was ill, and probably lay at Chinon."
+410,12,July,1166,7,12-7-1166,Fougères,,48.3525,-1.1986,France,The King and his army are before Fougeres.
+411,,,1166,,1166,Rennes,,48.1147,-1.6794,France,N/A
+412,,,1166,,1166,Redon,,47.6522,-2.0836,France,Estimate of location
+413,,,1166,,1166,Combour,,48.4094,-1.7506,France,Estimate of location.  Likely to be Combourg
+414,,,1166,,1166,Dol,,48.5506,-1.7497,France,Estimate of location
+415,,,1166,,1166,Mont St. Michael,,48.636,-1.511,France,Estimate of location
+416,30,September,1166,9,30-9-1166,Brittany,,48,-3,France,The King probably in Bretagne.
+417,,October,1166,10,10-1166,Caen,,49.18,-0.37,France,N/A
+418,c.1,November,1166,11,c.1-11-1166,Touques,,49.3433,0.1028,France,N/A
+419,,November,1166,11,11-1166,Rouen,,49.442778,1.088611,France,N/A
+420,,November,1166,11,11-1166,Caen,,49.18,-0.37,France,N/A
+421,18,November,1166,11,18-11-1166,Tours,,47.393611,0.689167,France,N/A
+422,20,November,1166,11,20-11-1166,Chinon,,47.1678,0.2436,France,N/A
+423,25,December,1166,12,25-12-1166,Poitiers,,46.58,0.34,France,N/A
+424,1,January,1167,1,1-1-1167,Guienne,,43.977,-0.176,France,"K. Henry, leaving Poitiers soon after Christmas, goes into Guienne."
+425,26,February,1167,2,26-2-1167,Souterraine,,46.2374,1.4862,France,N/A
+426,,March,1167,3,3-1167,Mont de Marsan,,43.89,-0.5,France,(in Gascony)
+427,20,March,1167,3,20-3-1167,Gascony,,43.977,-0.176,France,Appears as 'Gascogne' in text
+428,21,March,1167,3,21-3-1167,Gascony,,43.977,-0.176,France,Appears as 'Gascogne' in text
+429,22,March,1167,3,22-3-1167,Gascony,,43.977,-0.176,France,Appears as 'Gascogne' in text
+430,23,March,1167,3,23-3-1167,Gascony,,43.977,-0.176,France,Appears as 'Gascogne' in text
+431,24,March,1167,3,24-3-1167,Gascony,,43.977,-0.176,France,Appears as 'Gascogne' in text
+432,25,March,1167,3,25-3-1167,Gascony,,43.977,-0.176,France,Appears as 'Gascogne' in text
+433,26,March,1167,3,26-3-1167,Gascony,,43.977,-0.176,France,Appears as 'Gascogne' in text
+434,27,March,1167,3,27-3-1167,Gascony,,43.977,-0.176,France,Appears as 'Gascogne' in text
+435,28,March,1167,3,28-3-1167,Gascony,,43.977,-0.176,France,Appears as 'Gascogne' in text
+436,29,March,1167,3,29-3-1167,Gascony,,43.977,-0.176,France,Appears as 'Gascogne' in text
+437,30,March,1167,3,30-3-1167,Gascony,,43.977,-0.176,France,Appears as 'Gascogne' in text
+438,31,March,1167,3,31-3-1167,Gascony,,43.977,-0.176,France,Appears as 'Gascogne' in text
+439,15,April,1167,4,15-4-1167,Auvergne,,45.333333,3,France,N/A
+440,4,June,1167,6,4-6-1167,The Vexin,,49.155,1.7875,France,N/A
+441,,July,1167,7,7-1167,Chaumont,,49.2683,1.8897,France,In the French Vexin
+442,,August,1167,8,8-1167,The Vexin,,49.155,1.7875,France,N/A
+443,,August,1167,8,8-1167,Rouen,,49.442778,1.088611,France,N/A
+444,31,August,1167,8,31-8-1167,Leon,,48.40827766,-4.485207526,France,Appears as 'Leon in Bretange' in text
+445,10,September,1167,9,10-9-1167,Brittany,,48,-3,France,Appears as 'Bretange' in text
+446,,October,1167,10,10-1167,Valognes,,49.52,-1.47,France,N/A
+447,31,October,1167,10,31-10-1167,Caen,,49.18,-0.37,France,N/A
+448,26,November,1167,11,26-11-1167,Argentan,,48.75,-0.02,France,N/A
+449,27,November,1167,11,27-11-1167,Argentan,,48.75,-0.02,France,N/A
+450,28,November,1167,11,28-11-1167,Argentan,,48.75,-0.02,France,N/A
+451,29,November,1167,11,29-11-1167,Argentan,,48.75,-0.02,France,The King goes out hawking.
+452,30,November,1167,11,30-11-1167,Argentan,,48.75,-0.02,France,N/A
+453,1,December,1167,12,1-12-1167,Argentan,,48.75,-0.02,France,N/A
+454,2,December,1167,12,2-12-1167,Argentan,,48.75,-0.02,France,N/A
+455,3,December,1167,12,3-12-1167,Argentan,,48.75,-0.02,France,N/A
+456,4,December,1167,12,4-12-1167,Argentan,,48.75,-0.02,France,N/A
+457,10,December,1167,12,10-12-1167,Le Mans,,48.0077,0.1984,France,N/A
+458,25,December,1167,12,25-12-1167,Argentan,,48.75,-0.02,France,N/A
+459,,January,1168,1,1-1168,Poitou,,46.6486,-0.2478,France,N/A
+460,,January,1168,1,1-1168,Castle of Lusignan,,46.437222,0.127778,France,Poitou
+461,,January,1168,1,1-1168,Normandy,,48.88,0.17,France,N/A
+462,7,April,1168,4,7-4-1168,Pacey,,49.0167,1.3828,France,N/A
+463,7,April,1168,4,7-4-1168,Between Pacey and Mante,,49.02124944,1.543025582,France,Conference between Henry and Louis at a place on the Norman Frontier between Pacey and Mante.
+464,12,May,1168,5,12-5-1168,Brittany,,48,-3,France,Appears as 'Bretange' in text
+465,,May,1168,5,5-1168,Castle Jocelin,,47.952222,-2.547222,France,N/A
+466,,May,1168,5,5-1168,Abrahi Castle,,,,France,(Aurai?)
+467,,May,1168,5,5-1168,Vannes ,,47.6559,-2.7603,France,N/A
+468,,May,1168,5,5-1168,Porhoet,,48.0992,-2.5433,France,N/A
+469,,May,1168,5,5-1168,Cornouarlle,,47.9958,-4.0978,France,N/A
+470,,June,1168,6,6-1168,Dinan ,,48.4564,-2.0489,France,N/A
+471,,June,1168,6,6-1168,St. Malo,,48.65,-2.01,France,N/A
+472,,June,1168,6,6-1168,Castle of Heddé,,48.2953,-1.8014,France,Likely to be Hédé-Bazouges
+473,24,June,1168,6,24-6-1168,Castle Becherell,,48.2961,-1.9439,France,Appears to be Bécherel
+474,24,June,1168,6,24-6-1168,Castle of Tintiniac,,48.3297,-1.8336,France,N/A
+475,25,June,1168,6,25-6-1168,Leon,,48.40827766,-4.485207526,France,N/A
+476,,June,1168,6,6-1168,Dinan ,,48.4564,-2.0489,France,N/A
+477,,June,1168,6,6-1168,Aleth,,48.635833,-2.026944,France,Likely to be Aleth Cathedral
+478,,July,1168,7,7-1168,La Ferté-Bernard,,48.1875,0.6553,France,Appears as 'Feité Bernard' in the text
+479,,July,1168,7,7-1168,Beaumont-sur-Oise,,49.1431,2.2872,France,N/A
+480,,August,1168,8,8-1168,Ponthieu,,50.11,1.83,France,N/A
+481,,August,1168,8,8-1168,The Viemieu,,,,France,N/A
+482,,August,1168,8,8-1168,Brueroles,,,,France,N/A
+483,,August,1168,8,8-1168,Neufchâtel,,49.73,1.44,France,N/A
+484,,August,1168,8,8-1168,Marches of Normandy,,49.09293671,1.600701688,France,N/A
+485,,September,1168,9,9-1168,Marches of Normandy,,49.09293671,1.600701688,France,N/A
+486,,,1168,,1168,Perche,,48.3772,0.5614,France,October and November 1168
+487,25,December,1168,12,25-12-1168,Argentan,,48.75,-0.02,France,N/A
+488,31,December,1168,12,31-12-1168,Argentan,,48.75,-0.02,France,N/A
+489,1,January,1169,1,1-1-1169,Argentan,,48.75,-0.02,France,N/A
+490,6,January,1169,1,6-1-1169,Montmirail,,48.10318426,0.7902709254,France,N/A
+491,,March,1169,3,3-1169,St. Germain en Laye,,48.8989,2.0938,France,N/A
+492,10,March,1169,3,10-3-1169,Poitou,,46.6486,-0.2478,France,N/A
+493,,March,1169,3,3-1169,La Marche,,46.122222,1.912778,France,N/A
+494,,March,1169,3,3-1169,Angoumois,,45.65,0.166667,France,N/A
+495,,May,1169,5,5-1169,St. Machaire,,44.5675,-0.2225,France,Gascogne.  Likely to be Saint-Macaire.
+496,,May,1169,5,5-1169,Gascony,,43.977,-0.176,France,K. Henry seems to have passed the whole of this month in Gascony or in some other Province of Acquitaine. Appears as 'Gascogne' in the text.
+497,,June,1169,6,6-1169,Gascony,,43.977,-0.176,France,Henry passes the whole of this month in Gascony.  Appears as 'Gascogne' in the text.
+498,c.1,July,1169,7,c.1-7-1169,Gascony,,43.977,-0.176,France,"King Henry, with his army, is in the remoter parts of Gascony.  Appears as 'Gascogne' in the text."
+499,1,August,1169,8,1-8-1169,Angers,,47.473612,-0.554167,France,Appears as 'Angiers' in the text
+500,2,August,1169,8,2-8-1169,Angers,,47.473612,-0.554167,France,Appears as 'Angiers' in the text
+501,3,August,1169,8,3-8-1169,Angers,,47.473612,-0.554167,France,Appears as 'Angiers' in the text
+502,4,August,1169,8,4-8-1169,Angers,,47.473612,-0.554167,France,Appears as 'Angiers' in the text
+503,5,August,1169,8,5-8-1169,Angers,,47.473612,-0.554167,France,Appears as 'Angiers' in the text
+504,6,August,1169,8,6-8-1169,Angers,,47.473612,-0.554167,France,Appears as 'Angiers' in the text
+505,7,August,1169,8,7-8-1169,Angers,,47.473612,-0.554167,France,Appears as 'Angiers' in the text
+506,8,August,1169,8,8-8-1169,Angers,,47.473612,-0.554167,France,Appears as 'Angiers' in the text
+507,15,August,1169,8,15-8-1169,Argentan,,48.75,-0.02,France,N/A
+508,23,August,1169,8,23-8-1169,Domfront,,48.5194,-0.7564,France,Appears as 'Damfront' in the text.
+509,24,August,1169,8,24-8-1169,Domfront,,48.5194,-0.7564,France,Appears as 'Damfront' in the text.
+510,,August,1169,8,8-1169,Beauvoir-en-Lyons,,49.5039,1.5869,France,Appears as 'Beauvoir-en-Lions' in the text
+511,31,August,1169,8,31-8-1169,Bayeux,,49.2794,-0.7028,France,Appears as 'Baieux' in the text
+512,1,September,1169,9,1-9-1169,Bur-le-Roi,,49.2272,-0.7736,France,Appears as 'Le Bur' in the text
+513,2,September,1169,9,2-9-1169,Bur-le-Roi,,49.2272,-0.7736,France,Appears as 'Le Bur' in the text
+514,3,September,1169,9,3-9-1169,Rouen,,49.442778,1.088611,France,N/A
+515,20,September,1169,9,20-9-1169,Rouen,,49.442778,1.088611,France,N/A
+516,1,October,1169,10,1-10-1169,Rouen,,49.442778,1.088611,France,N/A
+517,2,October,1169,10,2-10-1169,Rouen,,49.442778,1.088611,France,N/A
+518,3,October,1169,10,3-10-1169,Rouen,,49.442778,1.088611,France,N/A
+519,4,October,1169,10,4-10-1169,Rouen,,49.442778,1.088611,France,N/A
+520,5,October,1169,10,5-10-1169,Rouen,,49.442778,1.088611,France,N/A
+521,6,October,1169,10,6-10-1169,Rouen,,49.442778,1.088611,France,N/A
+522,7,October,1169,10,7-10-1169,Rouen,,49.442778,1.088611,France,N/A
+523,8,October,1169,10,8-10-1169,Rouen,,49.442778,1.088611,France,N/A
+524,9,October,1169,10,9-10-1169,Rouen,,49.442778,1.088611,France,N/A
+525,10,October,1169,10,10-10-1169,Rouen,,49.442778,1.088611,France,N/A
+526,11,October,1169,10,11-10-1169,Rouen,,49.442778,1.088611,France,N/A
+527,12,October,1169,10,12-10-1169,Rouen,,49.442778,1.088611,France,N/A
+528,13,October,1169,10,13-10-1169,Rouen,,49.442778,1.088611,France,N/A
+529,14,October,1169,10,14-10-1169,Rouen,,49.442778,1.088611,France,N/A
+530,15,October,1169,10,15-10-1169,Rouen,,49.442778,1.088611,France,N/A
+531,16,October,1169,10,16-10-1169,Rouen,,49.442778,1.088611,France,N/A
+532,17,October,1169,10,17-10-1169,Rouen,,49.442778,1.088611,France,N/A
+533,18,October,1169,10,18-10-1169,Rouen,,49.442778,1.088611,France,N/A
+534,19,October,1169,10,19-10-1169,Rouen,,49.442778,1.088611,France,N/A
+535,20,October,1169,10,20-10-1169,Rouen,,49.442778,1.088611,France,N/A
+536,21,October,1169,10,21-10-1169,Rouen,,49.442778,1.088611,France,N/A
+537,22,October,1169,10,22-10-1169,Rouen,,49.442778,1.088611,France,N/A
+538,23,October,1169,10,23-10-1169,Rouen,,49.442778,1.088611,France,N/A
+539,24,October,1169,10,24-10-1169,Rouen,,49.442778,1.088611,France,N/A
+540,25,October,1169,10,25-10-1169,Rouen,,49.442778,1.088611,France,N/A
+541,26,October,1169,10,26-10-1169,Rouen,,49.442778,1.088611,France,N/A
+542,27,October,1169,10,27-10-1169,Rouen,,49.442778,1.088611,France,N/A
+543,28,October,1169,10,28-10-1169,Rouen,,49.442778,1.088611,France,N/A
+544,29,October,1169,10,29-10-1169,Rouen,,49.442778,1.088611,France,N/A
+545,30,October,1169,10,30-10-1169,Rouen,,49.442778,1.088611,France,N/A
+546,31,October,1169,10,31-10-1169,Rouen,,49.442778,1.088611,France,N/A
+547,16,November,1169,11,16-11-1169,St. Denys,,48.935556,2.359722,France,N/A
+548,18,November,1169,11,18-11-1169,Montmartre,,48.886944,2.341111,France,N/A
+549,,November,1169,11,11-1169,Normandy,,48.88,0.17,France,N/A
+550,25,December,1169,12,25-12-1169,Nantes,,47.2181,-1.5528,France,N/A
+551,31,December,1169,12,31-12-1169,Brittany,,48,-3,France,Appears as 'Bretagne' in text
+552,1,January,1170,1,1-1-1170,Brittany,,48,-3,France,Appears as 'Bretagne' in text
+553,2,February,1170,2,2-2-1170,Seez,,48.6053,0.1719,France,N/A
+554,,February,1170,2,2-1170,Mortain,,48.6486,-0.9397,France,(in the Avranchin)
+555,c.20,February,1170,2,c.20-2-1170,Caen,,49.18,-0.37,France,N/A
+556,28,February,1170,2,28-2-1170,Caen,,49.18,-0.37,France,N/A
+557,3,March,1170,3,3-3-1170,Portsmouth,SU6430901157,50.805833,-1.087222,England,"K. Henry lands at Portsmouth, after four years' absence from England."
+558,,March,1170,3,3-1170,Shaftesbury,ST8618623024,51.0059,-2.1969,England,N/A
+559,,March,1170,3,3-1170,Feckenham,SP0083161317,52.250033,-1.989251,England,N/A
+560,5,April,1170,4,5-4-1170,Windsor,SU9691277019,51.483333,-0.604167,England,"At Easter, the King held a great Council at Windsor."
+561,c.10,April,1170,4,c.10-4-1170,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+562,,May,1170,5,5-1170,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+563,,May,1170,5,5-1170,Silverston,SP6696743966,52.09,-1.024,England,(Northants)
+564,11,June,1170,6,11-6-1170,London,TQ3248081340,51.515457,-0.092140265,England,The King holds a great Council at London.
+565,14,June,1170,6,14-6-1170,Westminster,TQ3016079670,51.500988,-0.12617168,England,"Prince Henry crowned King, in presence of his father."
+566,c.24,June,1170,6,c.24-6-1170,Portsmouth,SU6430901157,50.805833,-1.087222,England,N/A
+567,,June,1170,6,6-1170,Barfleur,,49.6711,-1.2633,France,N/A
+568,30,June,1170,6,30-6-1170,Falaise,,48.897222,-0.1975,France,N/A
+569,c.2,July,1170,7,c.2-7-1170,Argentan,,48.75,-0.02,France,N/A
+570,6,July,1170,7,6-7-1170,La Ferté-Bernard,,48.1875,0.6553,France,Appears as 'La Ferté Bernard' in the text
+571,20,July,1170,7,20-7-1170,Vendôme,,47.7936,1.0664,France,"K. Henry is said to have met K. Louis at Vendome and it is quite supposable that on this or on some preceding day Henry was at that place, but the meeting of the 20th between Henry and Louis took place in the open country, at a spot between La Ferté (in the Pays Chartrain), and Fréteval (a castle of Touraine)."
+572,22,July,1170,7,22-7-1170,Fréteval,,47.8886,1.2106,France,N/A
+573,c.10,August,1170,8,c.10-8-1170,Mote-de-Ger,,,,France,"Appears as '1171' in text, is likely a print error"
+574,c.29,September,1170,9,c.29-9-1170,Roque Madour,,44.8003,1.6186,France,K. Henry makes a votive journey to the shrine of St. Mary of Roque Madour (De Rupe Adamatoris) in the Quercy.  Appears to be Rocamadour.
+575,c.1,October,1170,10,c.1-10-1170,Anjou,,47.473612,-0.554167,France,N/A
+576,,October,1170,10,10-1170,Touraine,,47.4,0.683333,France,N/A
+577,,October,1170,10,10-1170,Tours,,47.393611,0.689167,France,N/A
+578,12,October,1170,10,12-10-1170,Amboise,,47.4042,0.98,France,"King Henry and Becket meet at Amboise, near Tours."
+579,,October,1170,10,10-1170,Chaumont,,49.2683,1.8897,France,near Blois
+580,15,October,1170,10,15-10-1170,Chaumont,,49.2683,1.8897,France,N/A
+581,1,November,1170,11,1-11-1170,Loches,,47.1292,0.9961,France,"King Henry was at Loches, on the borders of Touraine and Berri and about to march eastwards to Bourges, the capital of Berri."
+582,2,November,1170,11,2-11-1170,Loches,,47.1292,0.9961,France,"King Henry was at Loches, on the borders of Touraine and Berri and about to march eastwards to Bourges, the capital of Berri."
+583,3,November,1170,11,3-11-1170,Loches,,47.1292,0.9961,France,"King Henry was at Loches, on the borders of Touraine and Berri and about to march eastwards to Bourges, the capital of Berri."
+584,4,November,1170,11,4-11-1170,Loches,,47.1292,0.9961,France,"King Henry was at Loches, on the borders of Touraine and Berri and about to march eastwards to Bourges, the capital of Berri."
+585,5,November,1170,11,5-11-1170,Loches,,47.1292,0.9961,France,"King Henry was at Loches, on the borders of Touraine and Berri and about to march eastwards to Bourges, the capital of Berri."
+586,6,November,1170,11,6-11-1170,Loches,,47.1292,0.9961,France,"King Henry was at Loches, on the borders of Touraine and Berri and about to march eastwards to Bourges, the capital of Berri."
+587,7,November,1170,11,7-11-1170,Loches,,47.1292,0.9961,France,"King Henry was at Loches, on the borders of Touraine and Berri and about to march eastwards to Bourges, the capital of Berri."
+588,8,November,1170,11,8-11-1170,Loches,,47.1292,0.9961,France,"King Henry was at Loches, on the borders of Touraine and Berri and about to march eastwards to Bourges, the capital of Berri."
+589,9,November,1170,11,9-11-1170,Loches,,47.1292,0.9961,France,"King Henry was at Loches, on the borders of Touraine and Berri and about to march eastwards to Bourges, the capital of Berri."
+590,10,November,1170,11,10-11-1170,Loches,,47.1292,0.9961,France,"King Henry was at Loches, on the borders of Touraine and Berri and about to march eastwards to Bourges, the capital of Berri."
+591,23,November,1170,11,23-11-1170,Mont Luçon,,46.3408,2.6033,France,Appears as 'Mount Luzzun' as well in the text
+592,,November,1170,11,11-1170,Bourges ,,47.0844,2.3964,France,N/A
+593,21,December,1170,12,21-12-1170,Bayeux,,49.2794,-0.7028,France,N/A
+594,25,December,1170,12,25-12-1170,Bur-le-Roi,,49.2272,-0.7736,France,near Bayeux
+595,31,December,1170,12,31-12-1170,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+596,1,January,1171,1,1-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+597,2,January,1171,1,2-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+598,3,January,1171,1,3-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+599,4,January,1171,1,4-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+600,5,January,1171,1,5-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+601,6,January,1171,1,6-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+602,7,January,1171,1,7-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+603,8,January,1171,1,8-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+604,9,January,1171,1,9-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+605,10,January,1171,1,10-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+606,11,January,1171,1,11-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+607,12,January,1171,1,12-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+608,13,January,1171,1,13-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+609,14,January,1171,1,14-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+610,15,January,1171,1,15-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+611,16,January,1171,1,16-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+612,17,January,1171,1,17-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+613,18,January,1171,1,18-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+614,19,January,1171,1,19-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+615,20,January,1171,1,20-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+616,21,January,1171,1,21-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+617,22,January,1171,1,22-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+618,23,January,1171,1,23-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+619,24,January,1171,1,24-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+620,25,January,1171,1,25-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+621,26,January,1171,1,26-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+622,27,January,1171,1,27-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+623,28,January,1171,1,28-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+624,29,January,1171,1,29-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+625,30,January,1171,1,30-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+626,31,January,1171,1,31-1-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+627,1,February,1171,2,1-2-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+628,2,February,1171,2,2-2-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+629,3,February,1171,2,3-2-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+630,4,February,1171,2,4-2-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+631,5,February,1171,2,5-2-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+632,6,February,1171,2,6-2-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+633,7,February,1171,2,7-2-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+634,8,February,1171,2,8-2-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+635,9,February,1171,2,9-2-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+636,10,February,1171,2,10-2-1171,Argentan,,48.75,-0.02,France,The King is said to have remained at Argentan 40 days.
+637,c.11,February,1171,2,c.11-2-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+638,12,February,1171,2,12-2-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+639,13,February,1171,2,13-2-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+640,14,February,1171,2,14-2-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+641,15,February,1171,2,15-2-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+642,16,February,1171,2,16-2-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+643,17,February,1171,2,17-2-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+644,18,February,1171,2,18-2-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+645,19,February,1171,2,19-2-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+646,20,February,1171,2,20-2-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+647,21,February,1171,2,21-2-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+648,22,February,1171,2,22-2-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+649,23,February,1171,2,23-2-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+650,24,February,1171,2,24-2-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+651,25,February,1171,2,25-2-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+652,,March,1171,3,3-1171,Brittany,,48,-3,France,Appears as 'Bretagne' in the text
+653,,April,1171,4,4-1171,Brittany,,48,-3,France,Appears as 'Bretagne' in the text
+654,2,May,1171,5,2-5-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+655,3,May,1171,5,3-5-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+656,4,May,1171,5,4-5-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+657,5,May,1171,5,5-5-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+658,6,May,1171,5,6-5-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+659,7,May,1171,5,7-5-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+660,8,May,1171,5,8-5-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+661,9,May,1171,5,9-5-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+662,10,May,1171,5,10-5-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+663,11,May,1171,5,11-5-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+664,12,May,1171,5,12-5-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+665,13,May,1171,5,13-5-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+666,14,May,1171,5,14-5-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+667,15,May,1171,5,15-5-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+668,16,May,1171,5,16-5-1171,Pont Orson,,48.5534,-1.5068,France,Appears as 'Pont-Orson' in the text
+669,,,1171,,1171,Rouen,,49.442778,1.088611,France,N/A
+670,,,1171,,1171,Chevaillec,,49.4072,1.0531,France,Also appears as 'Chivilli'.  A possible error.  J. H. Round identifies this as Quevilly
+671,,July,1171,7,7-1171,Argentan,,48.75,-0.02,France,N/A
+672,,July,1171,7,7-1171,Falaise,,48.897222,-0.1975,France,N/A
+673,,July,1171,7,7-1171,Chevaillec,,49.4072,1.0531,France,N/A
+674,,July,1171,7,7-1171,Bur-le-Roi,,49.2272,-0.7736,France,Appears as 'Bur le Roy' in the text
+675,30,July,1171,7,30-7-1171,Valognes,,49.52,-1.47,France,N/A
+676,31,July,1171,7,31-7-1171,Valognes,,49.52,-1.47,France,N/A
+677,1,August,1171,8,1-8-1171,Barfleur,,49.6711,-1.2633,France,N/A
+678,3,August,1171,8,3-8-1171,Portsmouth,SU6430901157,50.805833,-1.087222,England,N/A
+679,8,September,1171,9,8-9-1171,Monmouth ?,SO5036712668,51.81,-2.72,Wales,Appears as 'Monmouth ?'.  K. Henry is either at Monmouth or Chepstow or Cardiff
+680,,September,1171,9,9-1171,Caerleon,ST3360791173,51.615,-2.959,England,N/A
+681,21,September,1171,9,21-9-1171,Pembrokeshire,SN0424420135,51.845,-4.842222,Wales,N/A
+682,25,September,1171,9,25-9-1171,Pembroke Castle,SM9809501747,51.677678,-4.920694,Wales,N/A
+683,27,September,1171,9,27-9-1171,St. Davids,SM7504225482,51.882,-5.269,Wales,N/A
+684,29,September,1171,9,29-9-1171,Pembroke,SM9842601551,51.67604,-4.9158,Wales,N/A
+685,29,September,1171,9,29-9-1171,Y-Ty-Gwyn,SM7325826948,51.894444,-5.295833,Wales,"The King, having Prince Res in his company, comes to Y-Ty-Gwyn (The White House).  Likely Ty Gwyn, a former monastic community near Whitesands Bay in Pembrokeshire."
+686,30,September,1171,9,30-9-1171,Pembroke,SM9842601551,51.67604,-4.9158,Wales,N/A
+687,1,October,1171,10,1-10-1171,Pembroke,SM9842601551,51.67604,-4.9158,Wales,N/A
+688,2,October,1171,10,2-10-1171,Pembroke,SM9842601551,51.67604,-4.9158,Wales,N/A
+689,3,October,1171,10,3-10-1171,Pembroke,SM9842601551,51.67604,-4.9158,Wales,N/A
+690,4,October,1171,10,4-10-1171,Pembroke,SM9842601551,51.67604,-4.9158,Wales,N/A
+691,5,October,1171,10,5-10-1171,Pembroke,SM9842601551,51.67604,-4.9158,Wales,N/A
+692,6,October,1171,10,6-10-1171,Pembroke,SM9842601551,51.67604,-4.9158,Wales,N/A
+693,7,October,1171,10,7-10-1171,Pembroke,SM9842601551,51.67604,-4.9158,Wales,N/A
+694,8,October,1171,10,8-10-1171,Pembroke,SM9842601551,51.67604,-4.9158,Wales,N/A
+695,9,October,1171,10,9-10-1171,Pembroke,SM9842601551,51.67604,-4.9158,Wales,N/A
+696,10,October,1171,10,10-10-1171,Pembroke,SM9842601551,51.67604,-4.9158,Wales,N/A
+697,11,October,1171,10,11-10-1171,Pembroke,SM9842601551,51.67604,-4.9158,Wales,N/A
+698,12,October,1171,10,12-10-1171,Pembroke,SM9842601551,51.67604,-4.9158,Wales,N/A
+699,13,October,1171,10,13-10-1171,Pembroke,SM9842601551,51.67604,-4.9158,Wales,N/A
+700,14,October,1171,10,14-10-1171,Pembroke,SM9842601551,51.67604,-4.9158,Wales,N/A
+701,15,October,1171,10,15-10-1171,Pembroke,SM9842601551,51.67604,-4.9158,Wales,N/A
+702,16,October,1171,10,16-10-1171,Milford Haven,SM8982906149,51.71418,-5.04274,Wales,N/A
+703,17,October,1171,10,17-10-1171,Croch,SL6005470562,52.228,-6.98,Republic of Ireland,near Waterford.  Now Crooke
+704,18,October,1171,10,18-10-1171,Waterford,SL5010174459,52.256667,-7.129167,Republic of Ireland,N/A
+705,19,October,1171,10,19-10-1171,Waterford,SL5010174459,52.256667,-7.129167,Republic of Ireland,N/A
+706,20,October,1171,10,20-10-1171,Waterford,SL5010174459,52.256667,-7.129167,Republic of Ireland,N/A
+707,21,October,1171,10,21-10-1171,Waterford,SL5010174459,52.256667,-7.129167,Republic of Ireland,N/A
+708,22,October,1171,10,22-10-1171,Waterford,SL5010174459,52.256667,-7.129167,Republic of Ireland,N/A
+709,23,October,1171,10,23-10-1171,Waterford,SL5010174459,52.256667,-7.129167,Republic of Ireland,N/A
+710,24,October,1171,10,24-10-1171,Waterford,SL5010174459,52.256667,-7.129167,Republic of Ireland,N/A
+711,25,October,1171,10,25-10-1171,Waterford,SL5010174459,52.256667,-7.129167,Republic of Ireland,N/A
+712,26,October,1171,10,26-10-1171,Waterford,SL5010174459,52.256667,-7.129167,Republic of Ireland,N/A
+713,27,October,1171,10,27-10-1171,Waterford,SL5010174459,52.256667,-7.129167,Republic of Ireland,N/A
+714,28,October,1171,10,28-10-1171,Waterford,SL5010174459,52.256667,-7.129167,Republic of Ireland,N/A
+715,29,October,1171,10,29-10-1171,Waterford,SL5010174459,52.256667,-7.129167,Republic of Ireland,N/A
+716,30,October,1171,10,30-10-1171,Waterford,SL5010174459,52.256667,-7.129167,Republic of Ireland,N/A
+717,31,October,1171,10,31-10-1171,Waterford,SL5010174459,52.256667,-7.129167,Republic of Ireland,N/A
+718,1,November,1171,11,1-11-1171,Waterford,SL5010174459,52.256667,-7.129167,Republic of Ireland,N/A
+719,2,November,1171,11,2-11-1171,Waterford,SL5010174459,52.256667,-7.129167,Republic of Ireland,N/A
+720,6,November,1171,11,6-11-1171,Cashel,SF0062807300,52.516717,-7.889428,Republic of Ireland,N/A
+721,11,November,1171,11,11-11-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+722,1,December,1171,12,1-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+723,2,December,1171,12,2-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+724,3,December,1171,12,3-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+725,4,December,1171,12,4-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+726,5,December,1171,12,5-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+727,6,December,1171,12,6-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+728,7,December,1171,12,7-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+729,8,December,1171,12,8-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+730,9,December,1171,12,9-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+731,10,December,1171,12,10-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+732,11,December,1171,12,11-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+733,12,December,1171,12,12-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+734,13,December,1171,12,13-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+735,14,December,1171,12,14-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+736,15,December,1171,12,15-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+737,16,December,1171,12,16-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+738,17,December,1171,12,17-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+739,18,December,1171,12,18-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+740,19,December,1171,12,19-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+741,20,December,1171,12,20-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+742,21,December,1171,12,21-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+743,22,December,1171,12,22-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+744,23,December,1171,12,23-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+745,24,December,1171,12,24-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+746,25,December,1171,12,25-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+747,26,December,1171,12,26-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+748,27,December,1171,12,27-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+749,28,December,1171,12,28-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+750,29,December,1171,12,29-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+751,30,December,1171,12,30-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+752,31,December,1171,12,31-12-1171,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+753,1,January,1172,1,1-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+754,2,January,1172,1,2-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+755,3,January,1172,1,3-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+756,4,January,1172,1,4-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+757,5,January,1172,1,5-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+758,6,January,1172,1,6-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+759,7,January,1172,1,7-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+760,8,January,1172,1,8-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+761,9,January,1172,1,9-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+762,10,January,1172,1,10-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+763,11,January,1172,1,11-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+764,12,January,1172,1,12-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+765,13,January,1172,1,13-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+766,14,January,1172,1,14-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+767,15,January,1172,1,15-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+768,16,January,1172,1,16-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+769,17,January,1172,1,17-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+770,18,January,1172,1,18-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+771,19,January,1172,1,19-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+772,20,January,1172,1,20-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+773,21,January,1172,1,21-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+774,22,January,1172,1,22-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+775,23,January,1172,1,23-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+776,24,January,1172,1,24-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+777,25,January,1172,1,25-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+778,26,January,1172,1,26-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+779,27,January,1172,1,27-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+780,28,January,1172,1,28-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+781,29,January,1172,1,29-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+782,30,January,1172,1,30-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+783,31,January,1172,1,31-1-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+784,1,February,1172,2,1-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+785,2,February,1172,2,2-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+786,3,February,1172,2,3-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+787,4,February,1172,2,4-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+788,5,February,1172,2,5-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+789,6,February,1172,2,6-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+790,7,February,1172,2,7-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+791,8,February,1172,2,8-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+792,9,February,1172,2,9-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+793,10,February,1172,2,10-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+794,11,February,1172,2,11-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+795,12,February,1172,2,12-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+796,13,February,1172,2,13-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+797,14,February,1172,2,14-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+798,15,February,1172,2,15-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+799,16,February,1172,2,16-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+800,17,February,1172,2,17-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+801,18,February,1172,2,18-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+802,19,February,1172,2,19-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+803,20,February,1172,2,20-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+804,21,February,1172,2,21-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+805,22,February,1172,2,22-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+806,23,February,1172,2,23-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+807,24,February,1172,2,24-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+808,25,February,1172,2,25-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+809,26,February,1172,2,26-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+810,27,February,1172,2,27-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+811,28,February,1172,2,28-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+812,29,February,1172,2,29-2-1172,Dublin,SG1614892169,53.35,-6.266667,Republic of Ireland,N/A
+813,1,March,1172,3,1-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+814,2,March,1172,3,2-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+815,3,March,1172,3,3-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+816,4,March,1172,3,4-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+817,5,March,1172,3,5-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+818,6,March,1172,3,6-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+819,7,March,1172,3,7-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+820,8,March,1172,3,8-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+821,9,March,1172,3,9-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+822,10,March,1172,3,10-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+823,11,March,1172,3,11-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+824,12,March,1172,3,12-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+825,13,March,1172,3,13-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+826,14,March,1172,3,14-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+827,15,March,1172,3,15-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+828,16,March,1172,3,16-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+829,17,March,1172,3,17-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+830,18,March,1172,3,18-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+831,19,March,1172,3,19-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+832,20,March,1172,3,20-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+833,21,March,1172,3,21-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+834,22,March,1172,3,22-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+835,23,March,1172,3,23-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+836,24,March,1172,3,24-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+837,25,March,1172,3,25-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+838,26,March,1172,3,26-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+839,27,March,1172,3,27-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+840,28,March,1172,3,28-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+841,29,March,1172,3,29-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+842,30,March,1172,3,30-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+843,31,March,1172,3,31-3-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,N/A
+844,1,April,1172,4,1-4-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,"K. Henry at Wexford, still waiting apparently for a fair wind."
+845,2,April,1172,4,2-4-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,"K. Henry at Wexford, still waiting apparently for a fair wind."
+846,3,April,1172,4,3-4-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,"K. Henry at Wexford, still waiting apparently for a fair wind."
+847,4,April,1172,4,4-4-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,"K. Henry at Wexford, still waiting apparently for a fair wind."
+848,5,April,1172,4,5-4-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,"K. Henry at Wexford, still waiting apparently for a fair wind."
+849,6,April,1172,4,6-4-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,"K. Henry at Wexford, still waiting apparently for a fair wind."
+850,7,April,1172,4,7-4-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,"K. Henry at Wexford, still waiting apparently for a fair wind."
+851,8,April,1172,4,8-4-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,"K. Henry at Wexford, still waiting apparently for a fair wind."
+852,9,April,1172,4,9-4-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,"K. Henry at Wexford, still waiting apparently for a fair wind."
+853,10,April,1172,4,10-4-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,"K. Henry at Wexford, still waiting apparently for a fair wind."
+854,11,April,1172,4,11-4-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,"K. Henry at Wexford, still waiting apparently for a fair wind."
+855,12,April,1172,4,12-4-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,"K. Henry at Wexford, still waiting apparently for a fair wind."
+856,13,April,1172,4,13-4-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,"K. Henry at Wexford, still waiting apparently for a fair wind."
+857,14,April,1172,4,14-4-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,"K. Henry at Wexford, still waiting apparently for a fair wind."
+858,15,April,1172,4,15-4-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,"K. Henry at Wexford, still waiting apparently for a fair wind."
+859,16,April,1172,4,16-4-1172,Wexford,SL9644080039,52.3342,-6.4575,Republic of Ireland,"K. Henry at Wexford, still waiting apparently for a fair wind."
+860,17,April,1172,4,17-4-1172,Portfinnan,,,,Wales,"The King crosses the channel and lands at Portfinnan, near St. Davids"
+861,19,April,1172,4,19-4-1172,Haverfordwest,SM9524115483,51.8,-4.97,Wales,N/A
+862,21,April,1172,4,21-4-1172,Pembroke,SM9842601551,51.67604,-4.9158,Wales,N/A
+863,22,April,1172,4,22-4-1172,Cardiff,ST1837176329,51.480005,-3.1768555,Wales,N/A
+864,23,April,1172,4,23-4-1172,Newport,ST3080987638,51.583333,-3,Wales,N/A
+865,24,April,1172,4,24-4-1172,Talacharn,SN3006710778,51.7694,-4.4631,Wales,The King is met on his road to England by Prince Res at Talacharn.  Talacharn is Welsh for Laugharne
+866,,April,1172,4,4-1172,England,TQ3070979631,51.5,-0.116667,England,"The King, after his return from Ireland and leaving Wales, seems to have stayed about eighteen days in England."
+867,c.12,May,1172,5,c.12-5-1172,Portsmouth,SU6430901157,50.805833,-1.087222,England,N/A
+868,,May,1172,5,5-1172,Barfleur,,49.6711,-1.2633,France,N/A
+869,16,May,1172,5,16-5-1172,Gorron,,48.4125,-0.8114,France,(in Maine).  Appears as 'Gorram' in text and 'Gorron' in index
+870,17,May,1172,5,17-5-1172,Savigny,,49.0506,-1.3375,France,N/A
+871,,May,1172,5,5-1172,Caen,,49.18,-0.37,France,N/A
+872,21,May,1172,5,21-5-1172,Avranches,,48.685,-1.3556,France,N/A
+873,c.22,May,1172,5,c.22-5-1172,Caen,,49.18,-0.37,France,N/A
+874,,May,1172,5,5-1172,Brittany,,48,-3,France,Appears as 'Bretagne' in the text
+875,21,September,1172,9,21-9-1172,Normandy,,48.88,0.17,France,K. Henry was again in Normandy
+876,,October,1172,10,10-1172,Normandy,,48.88,0.17,France,The King is not recorded to have quitted Normandy.
+877,,November,1172,11,11-1172,Normandy,,48.88,0.17,France,The King is not recorded to have quitted Normandy.
+878,,December,1172,12,12-1172,Normandy,,48.88,0.17,France,N/A
+879,,December,1172,12,12-1172,Le Mans,,48.0077,0.1984,France,N/A
+880,25,December,1172,12,25-12-1172,Chinon,,47.1678,0.2436,France,N/A
+881,26,December,1172,12,26-12-1172,Chinon,,47.1678,0.2436,France,N/A
+882,27,December,1172,12,27-12-1172,Chinon,,47.1678,0.2436,France,N/A
+883,28,December,1172,12,28-12-1172,Chinon,,47.1678,0.2436,France,N/A
+884,29,December,1172,12,29-12-1172,Chinon,,47.1678,0.2436,France,N/A
+885,30,December,1172,12,30-12-1172,Chinon,,47.1678,0.2436,France,N/A
+886,31,December,1172,12,31-12-1172,Chinon,,47.1678,0.2436,France,N/A
+887,,January,1173,1,1-1173,Chinon,,47.1678,0.2436,France,N/A
+888,2,February,1173,2,2-2-1173,Montferrand,,45.793,3.1135,France,(in Auvergne).  Is now Clermont-Ferrand
+889,,February,1173,2,2-1173,Gascony,,43.977,-0.176,France,N/A
+890,,February,1173,2,2-1173,St. Machaire,,44.5675,-0.2225,France,N/A
+891,21,February,1173,2,21-2-1173,Limoges,,45.8353,1.2625,France,N/A
+892,22,February,1173,2,22-2-1173,Limoges,,45.8353,1.2625,France,N/A
+893,23,February,1173,2,23-2-1173,Limoges,,45.8353,1.2625,France,N/A
+894,24,February,1173,2,24-2-1173,Limoges,,45.8353,1.2625,France,N/A
+895,25,February,1173,2,25-2-1173,Limoges,,45.8353,1.2625,France,N/A
+896,26,February,1173,2,26-2-1173,Limoges,,45.8353,1.2625,France,N/A
+897,27,February,1173,2,27-2-1173,Limoges,,45.8353,1.2625,France,N/A
+898,28,February,1173,2,28-2-1173,Limoges,,45.8353,1.2625,France,N/A
+899,28,February,1173,2,28-2-1173,Vigeois,,45.3803,1.5181,France,(Vosias)
+900,5,March,1173,3,5-3-1173,Chinon,,47.1678,0.2436,France,N/A
+901,7,March,1173,3,7-3-1173,Alençon,,48.4306,0.0931,France,N/A
+902,,March,1173,3,3-1173,Gisors,,49.2811,1.7772,France,N/A
+903,4,April,1173,4,4-4-1173,St. Barbe,,49.1672,1.3206,France,in the Lieuvin.  Possibly Sainte-Barbe-sur-Gaillon
+904,8,April,1173,4,8-4-1173,Alençon,,48.4306,0.0931,France,N/A
+905,,April,1173,4,4-1173,Rouen,,49.442778,1.088611,France,N/A
+906,,May,1173,5,5-1173,Rouen,,49.442778,1.088611,France,N/A
+907,,June,1173,6,6-1173,Rouen,,49.442778,1.088611,France,N/A
+908,,July,1173,7,7-1173,Rouen,,49.442778,1.088611,France,N/A
+909,,,1173,,1173,Lillebonne,,49.5189,0.5343,France,N/A
+910,,,1173,,1173,Rouen,,49.442778,1.088611,France,N/A
+911,6,August,1173,8,6-8-1173,Conches,,48.9614,0.9433,France,N/A
+912,7,August,1173,8,7-8-1173,Conches,,48.9614,0.9433,France,N/A
+913,8,August,1173,8,8-8-1173,Breteuil,,48.8369,0.9147,France,N/A
+914,8,August,1173,8,8-8-1173,Conches,,48.9614,0.9433,France,N/A
+915,9,August,1173,8,9-8-1173,Verneuil,,48.7394,0.9286,France,N/A
+916,10,August,1173,8,10-8-1173,Damville,,48.8706,1.0756,France,N/A
+917,,August,1173,8,8-1173,Rouen,,49.442778,1.088611,France,N/A
+918,,August,1173,8,8-1173,Fougères,,48.3525,-1.1986,France,N/A
+919,20,August,1173,8,20-8-1173,Rouen,,49.442778,1.088611,France,N/A
+920,,August,1173,8,8-1173,Tenchebray,,48.7636,-0.7331,France,N/A
+921,,August,1173,8,8-1173,Dol,,48.5506,-1.7497,France,N/A
+922,8,September,1173,9,8-9-1173,Le Mans,,48.0077,0.1984,France,N/A
+923,9,September,1173,9,9-9-1173,Le Mans,,48.0077,0.1984,France,N/A
+924,10,September,1173,9,10-9-1173,Le Mans,,48.0077,0.1984,France,N/A
+925,11,September,1173,9,11-9-1173,Le Mans,,48.0077,0.1984,France,N/A
+926,12,September,1173,9,12-9-1173,Le Mans,,48.0077,0.1984,France,N/A
+927,13,September,1173,9,13-9-1173,Le Mans,,48.0077,0.1984,France,N/A
+928,14,September,1173,9,14-9-1173,Le Mans,,48.0077,0.1984,France,N/A
+929,15,September,1173,9,15-9-1173,Le Mans,,48.0077,0.1984,France,N/A
+930,25,September,1173,9,25-9-1173,Gisors,,49.2811,1.7772,France,N/A
+931,26,September,1173,9,26-9-1173,Gisors,,49.2811,1.7772,France,N/A
+932,c.11,November,1173,11,c.11-11-1173,Anjou,,47.473612,-0.554167,France,N/A
+933,,November,1173,11,11-1173,Haye,,46.9744,0.6986,France,Castle.  Possibly now know as Descartes.
+934,,November,1173,11,11-1173,Prulli,,,,France,Castle
+935,,November,1173,11,11-1173,Campenni,,,,France,Castle
+936,30,November,1173,11,30-11-1173,Vendôme,,47.7936,1.0664,France,K. Henry takes Vendome on the Loire.
+937,25,December,1173,12,25-12-1173,Caen,,49.18,-0.37,France,N/A
+938,c.13,January,1174,1,c.13-1-1174,Normandy,,48.88,0.17,France,K. Henry agrees on a truce with Louis till the close of Easter.
+939,30,April,1174,4,30-4-1174,Le Mans,,48.0077,0.1984,France,N/A
+940,c.4,May,1174,5,c.4-5-1174,Anjou,,47.473612,-0.554167,France,N/A
+941,12,May,1174,5,12-5-1174,Poitiers,,46.58,0.34,France,N/A
+942,,May,1174,5,5-1174,Saintes,,45.7464,-0.6333,France,N/A
+943,11,June,1174,6,11-6-1174,Ancenis,,47.3733,-1.2936,France,on the Loire in Anjou
+944,24,June,1174,6,24-6-1174,Bonneville sur Touques,,49.3389,0.1206,France,(in Normandy)
+945,7,July,1174,7,7-7-1174,Barfleur,,49.6711,-1.2633,France,N/A
+946,8,July,1174,7,8-7-1174,Southampton,SU4189211677,50.9025,-1.404167,England,N/A
+947,,July,1174,7,7-1174,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+948,12,July,1174,7,12-7-1174,Canterbury,TR1454057430,51.275608,1.0745524,England,The King does penance at Becket's tomb at Canterbury.
+949,13,July,1174,7,13-7-1174,Canterbury,TR1454057430,51.275608,1.0745524,England,"The King, after concluding his penance, and hearing mass at Canterbury, sets out for London."
+950,14,July,1174,7,14-7-1174,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+951,,July,1174,7,7-1174,Westminster,TQ3016079670,51.500988,-0.12617168,England,N/A
+952,19,July,1174,7,19-7-1174,Huntingdon,TL2402571458,52.327212,-0.18148094,England,N/A
+953,20,July,1174,7,20-7-1174,Huntingdon,TL2402571458,52.327212,-0.18148094,England,N/A
+954,21,July,1174,7,21-7-1174,Huntingdon,TL2402571458,52.327212,-0.18148094,England,Huntingdon surrenders to the King.
+955,24,July,1174,7,24-7-1174,Seleham,TM2063777421,52.35,1.24,England,near Framlingham.  Likely to be Syleham.
+956,25,July,1174,7,25-7-1174,Seleham,TM2063777421,52.35,1.24,England,Hugh Bigot comes to the King at Seieham and surrenders his castles of Bungay and Frauilingham.  Likely to be Syleham.
+957,,July,1174,7,7-1174,Brampton,TL2134570670,52.32073,-0.22107536,England,N/A
+958,31,July,1174,7,31-7-1174,Northampton,SP7549060562,52.238083,-0.89592755,England,N/A
+959,,,1174,,1174,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+960,,,1174,,1174,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+961,8,August,1174,8,8-8-1174,Portsmouth,SU6430901157,50.805833,-1.087222,England,N/A
+962,8,August,1174,8,8-8-1174,Barfleur,,49.6711,-1.2633,France,N/A
+963,c.9,August,1174,8,c.9-8-1174,Caen,,49.18,-0.37,France,N/A
+964,10,August,1174,8,10-8-1174,Rouen,,49.442778,1.088611,France,N/A
+965,11,August,1174,8,11-8-1174,Rouen,,49.442778,1.088611,France,Henry could have stayed until the 15th August
+966,8,September,1174,9,8-9-1174,Gisors,,49.2811,1.7772,France,N/A
+967,21,September,1174,9,21-9-1174,Poitiers,,46.58,0.34,France,Could be 21st or 23rd.  Appears as 'Poictiers' in the text and 'Poitiers' in the index
+968,,September,1174,9,9-1174,Beauvoir sur Mer,,46.9169,-2.0414,France,N/A
+969,30,September,1174,9,30-9-1174,Mont Louis,,47.3892,0.8281,France,"K. Henry, Louis, and the Princes, Henry, Richard, and Geoffrey, confer and come to terms at Mont Louis (Mons Laudatus), between Tours and Amboise."
+970,c.10,October,1174,10,c.10-10-1174,Falaise,,48.897222,-0.1975,France,N/A
+971,c.1,December,1174,12,c.1-12-1174,Falaise,,48.897222,-0.1975,France,N/A
+972,8,December,1174,12,8-12-1174,Valognes,,49.52,-1.47,France,N/A
+973,,December,1174,12,12-1174,Vaudreuil,,49.2569,1.2067,France,N/A
+974,,December,1174,12,12-1174,Rouen,,49.442778,1.088611,France,N/A
+975,,December,1174,12,12-1174,Chevaillec,,49.4072,1.0531,France,N/A
+976,26,December,1174,12,26-12-1174,Argentan,,48.75,-0.02,France,N/A
+977,c.1,January,1175,1,c.1-1-1175,Anjou,,47.473612,-0.554167,France,N/A
+978,2,February,1175,2,2-2-1175,Le Mans,,48.0077,0.1984,France,N/A
+979,24,February,1175,2,24-2-1175,Gisors,,49.2811,1.7772,France,N/A
+980,26,February,1175,2,26-2-1175,Rouen,,49.442778,1.088611,France,N/A
+981,,February,1175,2,2-1175,Anjou,,47.473612,-0.554167,France,N/A
+982,25,March,1175,3,25-3-1175,Caen,,49.18,-0.37,France,N/A
+983,1,April,1175,4,1-4-1175,Bur-le-Roi,,49.2272,-0.7736,France,N/A
+984,c.2,April,1175,4,c.2-4-1175,Valognes,,49.52,-1.47,France,N/A
+985,13,April,1175,4,13-4-1175,Cherbourg,,49.63,-1.62,France,N/A
+986,22,April,1175,4,22-4-1175,Caen,,49.18,-0.37,France,N/A
+987,c.1,May,1175,5,c.1-5-1175,Barfleur,,49.6711,-1.2633,France,N/A
+988,8,May,1175,5,8-5-1175,Barfleur,,49.6711,-1.2633,France,Could be 8th or 9th
+989,,May,1175,5,5-1175,Portsmouth,SU6430901157,50.805833,-1.087222,England,N/A
+990,,May,1175,5,5-1175,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+991,18,May,1175,5,18-5-1175,Westminster,TQ3016079670,51.500988,-0.12617168,England,N/A
+992,,May,1175,5,5-1175,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+993,1,June,1175,6,1-6-1175,Reading,SU7134673352,51.454167,-0.973056,England,The King and Prince hold their Court on Whitsunday at Reading.
+994,15,June,1175,6,15-6-1175,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+995,24,June,1175,6,24-6-1175,Oxford,SP5130006100,51.751253,-1.2582674,England,N/A
+996,29,June,1175,6,29-6-1175,Gloucester,SO8320018600,51.865722,-2.2453868,England,N/A
+997,1,July,1175,7,1-7-1175,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+998,2,July,1175,7,2-7-1175,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+999,3,July,1175,7,3-7-1175,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+1000,4,July,1175,7,4-7-1175,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+1001,5,July,1175,7,5-7-1175,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+1002,6,July,1175,7,6-7-1175,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+1003,7,July,1175,7,7-7-1175,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+1004,c.7,July,1175,7,c.7-7-1175,Shrewsbury,SJ4906312564,52.708,-2.754,England,Perhaps the King visited Shrewsbury about this time.
+1005,8,July,1175,7,8-7-1175,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+1006,9,July,1175,7,9-7-1175,Lichfield,SK1155809419,52.682,-1.829,England,N/A
+1007,,July,1175,7,7-1175,Staffordshire,SJ9217323309,52.806944,-2.116111,England,N/A
+1008,1,August,1175,8,1-8-1175,Nottingham,SK5700040000,52.954357,-1.1530111,England,N/A
+1009,10,August,1175,8,10-8-1175,York,SE6048651973,53.960106,-1.078017,England,N/A
+1010,c.12,August,1175,8,c.12-8-1175,Stamford,TF0253307592,52.656,-0.484,England,N/A
+1011,,August,1175,8,8-1175,Northampton,SP7549060562,52.238083,-0.89592755,England,N/A
+1012,,August,1175,8,8-1175,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+1013,25,September,1175,9,25-9-1175,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+1014,6,October,1175,10,6-10-1175,Windsor,SU9691277019,51.483333,-0.604167,England,On this day the King held a great Council at Windsor
+1015,,October,1175,10,10-1175,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+1016,,October,1175,10,10-1175,Marlborough,SU1887169033,51.42,-1.73,England,N/A
+1017,,October,1175,10,10-1175,Ludgershall,SU2647550827,51.256,-1.622,England,(in Wiltshire)
+1018,,October,1175,10,10-1175,Feckenham,SP0083161317,52.250033,-1.989251,England,N/A
+1019,31,October,1175,10,31-10-1175,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1020,,November,1175,11,11-1175,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+1021,26,November,1175,11,26-11-1175,Eynsham,SP4311109383,51.781,-1.375,England,N/A
+1022,30,November,1175,11,30-11-1175,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1023,25,December,1175,12,25-12-1175,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+1024,31,December,1175,12,31-12-1175,Windsor,SU9691277019,51.483333,-0.604167,England,The King still probably at Windsor.
+1025,1,January,1176,1,1-1-1176,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+1026,,January,1176,1,1-1176,Bridgenorth,SO7164293098,52.535,-2.4195,England,Appears as 'Bridgnorth' in the text
+1027,,January,1176,1,1-1176,Shrewsbury,SJ4906312564,52.708,-2.754,England,N/A
+1028,26,January,1176,1,26-1-1176,Northampton,SP7549060562,52.238083,-0.89592755,England,N/A
+1029,,February,1176,2,2-1176,Geddington,SP8935383036,52.438,-0.687,England,N/A
+1030,,February,1176,2,2-1176,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+1031,14,March,1176,3,14-3-1176,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+1032,,March,1176,3,3-1176,Westminster,TQ3016079670,51.500988,-0.12617168,England,N/A
+1033,31,March,1176,3,31-3-1176,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1034,4,April,1176,4,4-4-1176,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1035,c.20,May,1176,5,c.20-5-1176,London,TQ3248081340,51.515457,-0.092140265,England,(London)
+1036,25,May,1176,5,25-5-1176,Westminster,TQ3016079670,51.500988,-0.12617168,England,N/A
+1037,31,May,1176,5,31-5-1176,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1038,,June,1176,6,6-1176,Clarendon,SU1820130173,51.0706,-1.7416,England,N/A
+1039,15,August,1176,8,15-8-1176,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1040,21,September,1176,9,21-9-1176,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1041,28,September,1176,9,28-9-1176,Windsor,SU9691277019,51.483333,-0.604167,England,The King holds a Court at Windsor.
+1042,30,September,1176,9,30-9-1176,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+1043,c.9,October,1176,10,c.9-10-1176,Feckenham,SP0083161317,52.250033,-1.989251,England,N/A
+1044,,October,1176,10,10-1176,Kinver,SO8450683492,52.4488,-2.228,England,(Staffordshire)
+1045,17,October,1176,10,17-10-1176,Cirencester,SP0230702253,51.719,-1.968,England,"The Church at Cirencester is consecrated by Bartholomew, Bishop of Exeter, the King attending."
+1046,12,November,1176,11,12-11-1176,Westminster,TQ3016079670,51.500988,-0.12617168,England,The King and his Court are at Westminster.
+1047,24,December,1176,12,24-12-1176,Nottingham,SK5700040000,52.954357,-1.1530111,England,N/A
+1048,25,December,1176,12,25-12-1176,Nottingham,SK5700040000,52.954357,-1.1530111,England,"The King and his two younger sons, Princes Geoffrey and John, keep Christmas at Nottingham."
+1049,1,January,1177,1,1-1-1177,Nottingham,SK5700040000,52.954357,-1.1530111,England,N/A
+1050,c.15,January,1177,1,c.15-1-1177,Northampton,SP7549060562,52.238083,-0.89592755,England,The King holds a great Council at Northampton.
+1051,20,January,1177,1,20-1-1177,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+1052,2,February,1177,2,2-2-1177,Marlborough,SU1887169033,51.42,-1.73,England,N/A
+1053,22,February,1177,2,22-2-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1054,c.1,March,1177,3,c.1-3-1177,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+1055,13,March,1177,3,13-3-1177,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+1056,13,March,1177,3,13-3-1177,Westminster,TQ3016079670,51.500988,-0.12617168,England,N/A
+1057,c.20,March,1177,3,c.20-3-1177,Marlborough,SU1887169033,51.42,-1.73,England,N/A
+1058,17,April,1177,4,17-4-1177,Reading,SU7134673352,51.454167,-0.973056,England,N/A
+1059,21,April,1177,4,21-4-1177,Canterbury,TR1454057430,51.275608,1.0745524,England,N/A
+1060,22,April,1177,4,22-4-1177,Dover,TR3161341898,51.1295,1.3089,England,N/A
+1061,23,April,1177,4,23-4-1177,Wick,TR0525146836,51.183333,0.937222,England,(Wye?)  Index suggests it could be Wye
+1062,24,April,1177,4,24-4-1177,Wick,TR0525146836,51.183333,0.937222,England,(Wye?)  Index suggests it could be Wye
+1063,26,April,1177,4,26-4-1177,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+1064,1,May,1177,5,1-5-1177,St. Edmundsbury,TL8545064155,52.243889,0.716667,England,Appears as 'St. Edmundbury' in the text
+1065,2,May,1177,5,2-5-1177,Ely,TL5389680231,52.398056,0.262222,England,N/A
+1066,c.4,May,1177,5,c.4-5-1177,Geddington,SP8935383036,52.438,-0.687,England,(Appears in the text as both 'Gayton' and 'Geddington'
+1067,c.8,May,1177,5,c.8-5-1177,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+1068,22,May,1177,5,22-5-1177,Amesbury,SU1509841720,51.174,-1.784,England,Nunnery
+1069,29,May,1177,5,29-5-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1070,2,June,1177,6,2-6-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1071,c.6,June,1177,6,c.6-6-1177,Marlborough,SU1887169033,51.42,-1.73,England,N/A
+1072,c.10,June,1177,6,c.10-6-1177,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+1073,11,June,1177,6,11-6-1177,Waltham,TL6944613455,51.793598,0.45738,England,Abbey
+1074,12,June,1177,6,12-6-1177,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+1075,,June,1177,6,6-1177,Hertfordshire ?,TL2290914668,51.816667,-0.216667,England,Perhaps the King was in Hertfordshire about this time. 
+1076,14,June,1177,6,14-6-1177,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+1077,15,June,1177,6,15-6-1177,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+1078,16,June,1177,6,16-6-1177,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+1079,17,June,1177,6,17-6-1177,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+1080,18,June,1177,6,18-6-1177,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+1081,1,July,1177,7,1-7-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1082,9,July,1177,7,9-7-1177,Stokes,SZ5889698063,50.77859,-1.16454,England,near Portsmouth.  Likely to be Stokes Bay
+1083,c.,July,1177,7,c.7-1177,Portchester ?,SU6195205150,50.842,-1.12,England,Appears as 'Porchester ?' in the text
+1084,10,July,1177,7,10-7-1177,Stanstede,SU7614910349,50.887058,-0.917282,England,Stansted Park
+1085,11,July,1177,7,11-7-1177,Stanstede,SU7614910349,50.887058,-0.917282,England,Stansted Park
+1086,12,July,1177,7,12-7-1177,Stanstede,SU7614910349,50.887058,-0.917282,England,Stansted Park
+1087,13,July,1177,7,13-7-1177,Stanstede,SU7614910349,50.887058,-0.917282,England,Stansted Park
+1088,14,July,1177,7,14-7-1177,Stanstede,SU7614910349,50.887058,-0.917282,England,Stansted Park
+1089,15,July,1177,7,15-7-1177,Stanstede,SU7614910349,50.887058,-0.917282,England,Stansted Park
+1090,16,July,1177,7,16-7-1177,Stanstede,SU7614910349,50.887058,-0.917282,England,Stansted Park
+1091,17,July,1177,7,17-7-1177,Stanstede,SU7614910349,50.887058,-0.917282,England,Stansted Park
+1092,17,July,1177,7,17-7-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1093,18,July,1177,7,18-7-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1094,19,July,1177,7,19-7-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1095,20,July,1177,7,20-7-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1096,21,July,1177,7,21-7-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1097,22,July,1177,7,22-7-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1098,23,July,1177,7,23-7-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1099,24,July,1177,7,24-7-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1100,25,July,1177,7,25-7-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1101,26,July,1177,7,26-7-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1102,27,July,1177,7,27-7-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1103,28,July,1177,7,28-7-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1104,29,July,1177,7,29-7-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1105,30,July,1177,7,30-7-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1106,31,July,1177,7,31-7-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1107,1,August,1177,8,1-8-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1108,2,August,1177,8,2-8-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1109,3,August,1177,8,3-8-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1110,4,August,1177,8,4-8-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1111,5,August,1177,8,5-8-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1112,6,August,1177,8,6-8-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1113,7,August,1177,8,7-8-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1114,8,August,1177,8,8-8-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1115,9,August,1177,8,9-8-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1116,10,August,1177,8,10-8-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1117,11,August,1177,8,11-8-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1118,12,August,1177,8,12-8-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1119,13,August,1177,8,13-8-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1120,14,August,1177,8,14-8-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1121,15,August,1177,8,15-8-1177,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1122,18,August,1177,8,18-8-1177,Portsmouth,SU6430901157,50.805833,-1.087222,England,N/A
+1123,19,August,1177,8,19-8-1177,Capewike,,,,France,The King lands at Capewike (Caplevic).
+1124,c.1,September,1177,9,c.1-9-1177,Ivri,,48.885,1.457,France,N/A
+1125,11,September,1177,9,11-9-1177,Rouen,,49.442778,1.088611,France,N/A
+1126,,September,1177,9,9-1177,Argentan,,48.75,-0.02,France,N/A
+1127,,September,1177,9,9-1177,Driencourt,,49.9592,3.0106,France,N/A
+1128,,September,1177,9,9-1177,Ivri,,48.885,1.457,France,Ivri (or perhaps) Nonancourt (or perhaps) Gué St. Remy
+1129,,September,1177,9,9-1177,Nonancourt,,48.7772,1.1942,France,N/A
+1130,c.1,October,1177,10,c.1-10-1177,Verneuil,,48.7394,0.9286,France,N/A
+1131,c.2,October,1177,10,c.2-10-1177,Alençon,,48.4306,0.0931,France,N/A
+1132,,October,1177,10,10-1177,Argentan,,48.75,-0.02,France,N/A
+1133,,October,1177,10,10-1177,Berri,,47.0844,2.3964,France,N/A
+1134,9,October,1177,10,9-10-1177,Châteauroux,,46.8103,1.6911,France,(Castellum Radulfi)
+1135,,October,1177,10,10-1177,La Châtre,,46.5831,1.9878,France,N/A
+1136,,October,1177,10,10-1177,Limousin,,45.68795,1.620483,France,N/A
+1137,,October,1177,10,10-1177,Berri,,47.0844,2.3964,France,N/A
+1138,c.15,November,1177,11,c.15-11-1177,Graszay,,47.1436,1.8475,France,(or Graserai or Graçay in index)
+1139,,November,1177,11,11-1177,Grandmont ,,49.42574104,1.097166189,France,Normandy.  Now Chapelle de Grammont
+1140,25,December,1177,12,25-12-1177,Angers,,47.473612,-0.554167,France,Appears as 'Angiers' in the text
+1141,1,January,1178,1,1-1-1178,Angers,,47.473612,-0.554167,France,Appears as 'Angiers' in the text
+1142,,February,1178,2,2-1178,Bur-le-Roi,,49.2272,-0.7736,France,Appears as 'Bur le Roy' in the text
+1143,19,March,1178,3,19-3-1178,Bec Hellouin,,49.2325,0.7217,France,N/A
+1144,9,April,1178,4,9-4-1178,Angers,,47.473612,-0.554167,France,Appears as 'Angiers' in the text
+1145,c.15,April,1178,4,c.15-4-1178,Normandy,,48.88,0.17,France,"One authority places himat Nonancourt on April 9th, but that seems improbable."
+1146,15,July,1178,7,15-7-1178,Dighesmut,,,,England,Dighesmouth in the index
+1147,c.18,July,1178,7,c.18-7-1178,Canterbury,TR1454057430,51.275608,1.0745524,England,N/A
+1148,,July,1178,7,7-1178,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+1149,28,July,1178,7,28-7-1178,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+1150,29,July,1178,7,29-7-1178,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+1151,30,July,1178,7,30-7-1178,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+1152,31,July,1178,7,31-7-1178,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+1153,6,August,1178,8,6-8-1178,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+1154,,,1178,,1178,Reading,SU7134673352,51.454167,-0.973056,England,N/A
+1155,,September,1178,9,9-1178,Worcestershire,SO8861055809,52.2,-2.166667,England,N/A
+1156,,October,1178,10,10-1178,England,TQ3070979631,51.5,-0.116667,England,N/A
+1157,,November,1178,11,11-1178,England,TQ3070979631,51.5,-0.116667,England,N/A
+1158,,December,1178,12,12-1178,England,TQ3070979631,51.5,-0.116667,England,N/A
+1159,25,December,1178,12,25-12-1178,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1160,1,January,1179,1,1-1-1179,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1161,,January,1179,1,1-1179,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+1162,,March,1179,3,3-1179,Gloucester,SO8320018600,51.865722,-2.2453868,England,N/A
+1163,1,April,1179,4,1-4-1179,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1164,,April,1179,4,4-1179,Titgrave,,,,England,N/A
+1165,10,April,1179,4,10-4-1179,Windsor,SU9691277019,51.483333,-0.604167,England,"The King holds a great Council at Windsor, and divides the kingdom into four circuits."
+1166,23,August,1179,8,23-8-1179,Dover,TR3161341898,51.1295,1.3089,England,N/A
+1167,,August,1179,8,8-1179,Canterbury,TR1454057430,51.275608,1.0745524,England,N/A
+1168,26,August,1179,8,26-8-1179,Dover,TR3161341898,51.1295,1.3089,England,N/A
+1169,27,August,1179,8,27-8-1179,Westminster,TQ3016079670,51.500988,-0.12617168,England,N/A
+1170,,September,1179,9,9-1179,Winchester,SU4779329466,51.062549,-1.3193687,England,Perhaps the King was at Winchester in this month.
+1171,,October,1179,10,10-1179,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+1172,,October,1179,10,10-1179,Worcester,SO8496354929,52.192,-2.22,England,N/A
+1173,c.15,December,1179,12,c.15-12-1179,Northampton,SP7549060562,52.238083,-0.89592755,England,N/A
+1174,25,December,1179,12,25-12-1179,Nottingham,SK5700040000,52.954357,-1.1530111,England,N/A
+1175,c.1,January,1180,1,c.1-1-1180,Newark,SK7976753905,53.076111,-0.809167,England,N/A
+1176,,January,1180,1,1-1180,Doncaster,SE5741703562,53.525594,-1.1353707,England,N/A
+1177,,January,1180,1,1-1180,York,SE6048651973,53.960106,-1.078017,England,N/A
+1178,,January,1180,1,1-1180,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+1179,,January,1180,1,1-1180,Oxford,SP5130006100,51.751253,-1.2582674,England,N/A
+1180,c.10,April,1180,4,c.10-4-1180,Winchester,SU4779329466,51.062549,-1.3193687,England,About this time the King was probably at Winchester
+1181,c.15,April,1180,4,c.15-4-1180,Portsmouth,SU6430901157,50.805833,-1.087222,England,N/A
+1182,c.17,April,1180,4,c.17-4-1180,Alençon,,48.4306,0.0931,France,N/A
+1183,20,April,1180,4,20-4-1180,Le Mans,,48.0077,0.1984,France,N/A
+1184,c.30,April,1180,4,c.30-4-1180,Angers,,47.473612,-0.554167,France,Appears as 'Angiers' in the text
+1185,,,1180,,1180,Chinon,,47.1678,0.2436,France,N/A
+1186,28,June,1180,6,28-6-1180,Gisors,,49.2811,1.7772,France,N/A
+1187,,,1180,,1180,Caen,,49.18,-0.37,France,N/A
+1188,,,1180,,1180,Valognes,,49.52,-1.47,France,N/A
+1189,,,1180,,1180,Cherbourg,,49.63,-1.62,France,N/A
+1190,,,1180,,1180,Rouen,,49.442778,1.088611,France,N/A
+1191,,,1180,,1180,Argentan,,48.75,-0.02,France,N/A
+1192,,,1180,,1180,Valognes,,49.52,-1.47,France,N/A
+1193,,,1180,,1180,Bur-le-Roi,,49.2272,-0.7736,France,Appears as 'Bur-le-Roi' in the text
+1194,,,1180,,1180,Caen,,49.18,-0.37,France,N/A
+1195,,,1180,,1180,Cherbourg,,49.63,-1.62,France,N/A
+1196,,,1180,,1180,Tenchebray,,48.7636,-0.7331,France,N/A
+1197,,,1180,,1180,Domfront,,48.5194,-0.7564,France,Appears as 'Damfront' in the text and 'Domfront' in the index
+1198,,,1180,,1180,Mortain,,48.6486,-0.9397,France,N/A
+1199,,,1180,,1180,Gorron,,48.4125,-0.8114,France,N/A
+1200,,,1180,,1180,Falaise,,48.897222,-0.1975,France,N/A
+1201,,,1180,,1180,Lyons-la-Forêt,,49.4003,1.4769,France,Appears as 'Lions la Forêt' in the text
+1202,,,1180,,1180,Bonneville sur Touques,,49.3389,0.1206,France,Appears as 'Bonneville sur Touque' in the text
+1203,,,1180,,1180,Driencourt,,49.9592,3.0106,France,Appears as 'Drincort' in the text and 'Driencourt' in the index
+1204,,,1180,,1180,Quillebœuf,,49.4728,0.5269,France,"on the Seine, West of Rouen"
+1205,,,1180,,1180,Argentan,,48.75,-0.02,France,N/A
+1206,,,1180,,1180,Valognes,,49.52,-1.47,France,N/A
+1207,,,1180,,1180,Bur-le-Roi,,49.2272,-0.7736,France,Appears as 'Bur-le-Roy' in the text
+1208,,,1180,,1180,Gorron,,48.4125,-0.8114,France,N/A
+1209,,,1180,,1180,Caen,,49.18,-0.37,France,N/A
+1210,c.29,September,1180,9,c.29-9-1180,Gisors,,49.2811,1.7772,France,N/A
+1211,c.1,October,1180,10,c.1-10-1180,Normandy,,48.88,0.17,France,N/A
+1212,25,December,1180,12,25-12-1180,Le Mans,,48.0077,0.1984,France,N/A
+1213,c.31,December,1180,12,c.31-12-1180,Angers,,47.473612,-0.554167,France,N/A
+1214,c.5,February,1181,2,c.5-2-1181,Normandy,,48.88,0.17,France,N/A
+1215,,March,1181,3,3-1181,Ivri,,48.885,1.457,France,Appears as 'Ivry' in the text and 'Ivri' in the index
+1216,5,March,1181,3,5-3-1181,Valasse,,49.5569,0.4856,France,(Normandy?)
+1217,,March,1181,3,3-1181,Grandmont ,,49.42574104,1.097166189,France,Appears as both ''Grammont' and 'Grandmont' in the text
+1218,5,April,1181,4,5-4-1181,Chinon,,47.1678,0.2436,France,N/A
+1219,c.10,April,1181,4,c.10-4-1181,Normandy,,48.88,0.17,France,N/A
+1220,27,April,1181,4,27-4-1181,Gué St. Remy,,48.7625,1.241944,France,(near Nonancourt).  Likely to be Saint-Rémy-sur-Avre
+1221,,April,1181,4,4-1181,Barfleur,,49.6711,-1.2633,France,N/A
+1222,,July,1181,7,7-1181,Gisors,,49.2811,1.7772,France,N/A
+1223,,July,1181,7,7-1181,Caen,,49.18,-0.37,France,N/A
+1224,,July,1181,7,7-1181,Cherbourg,,49.63,-1.62,France,N/A
+1225,26,July,1181,7,26-7-1181,Cherbourg,,49.63,-1.62,France,N/A
+1226,,July,1181,7,7-1181,Portsmouth,SU6430901157,50.805833,-1.087222,England,N/A
+1227,,August,1181,8,8-1181,Canterbury,TR1454057430,51.275608,1.0745524,England,N/A
+1228,,August,1181,8,8-1181,Nottingham,SK5700040000,52.954357,-1.1530111,England,N/A
+1229,,August,1181,8,8-1181,Clipston,SK5977264026,53.17,-1.1073,England,N/A
+1230,,August,1181,8,8-1181,Pontefract,SE4566021995,53.692413,-1.3100074,England,N/A
+1231,,August,1181,8,8-1181,York,SE6048651973,53.960106,-1.078017,England,N/A
+1232,,August,1181,8,8-1181,Knaresborough,SE3502957062,54.0084,-1.467,England,N/A
+1233,,August,1181,8,8-1181,Richmond,TQ1814274371,51.456,-0.301,England,N/A
+1234,c.1,September,1181,9,c.1-9-1181,Lichfield,SK1155809419,52.682,-1.829,England,N/A
+1235,,September,1181,9,9-1181,Feckenham,SP0083161317,52.250033,-1.989251,England,N/A
+1236,6,September,1181,9,6-9-1181,Evesham,SP0372843741,52.092,-1.947,England,N/A
+1237,,September,1181,9,9-1181,Marlborough,SU1887169033,51.42,-1.73,England,N/A
+1238,12,September,1181,9,12-9-1181,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1239,,October,1181,10,10-1181,Salisbury,SU1471230154,51.07,-1.79,England,N/A
+1240,,,1181,,1181,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1241,,,1181,,1181,Clarendon,SU1820130173,51.0706,-1.7416,England,N/A
+1242,,,1181,,1181,Shaftesbury,ST8618623024,51.0059,-2.1969,England,N/A
+1243,,,1181,,1181,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+1244,,,1181,,1181,Westminster,TQ3016079670,51.500988,-0.12617168,England,N/A
+1245,,December,1181,12,12-1181,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1246,1,January,1182,1,1-1-1182,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1247,6,January,1182,1,6-1-1182,Marlborough,SU1887169033,51.42,-1.73,England,N/A
+1248,,February,1182,2,2-1182,Arundel,TQ0188707093,50.85439,-0.5539,England,N/A
+1249,21,February,1182,2,21-2-1182,Bishops Waltham,SU5546017425,50.9536,-1.2118,England,N/A
+1250,22,February,1182,2,22-2-1182,Bishops Waltham,SU5546017425,50.9536,-1.2118,England,The King holds a Council at Bishops Waltham and makes his Will.
+1251,10,March,1182,3,10-3-1182,Portsmouth,SU6430901157,50.805833,-1.087222,England,N/A
+1252,11,March,1182,3,11-3-1182,Barfleur,,49.6711,-1.2633,France,N/A
+1253,,May,1182,5,5-1182,Poitou,,46.6486,-0.2478,France,N/A
+1254,c.20,May,1182,5,c.20-5-1182,Grandmont (Le Marche),,45.99993535,1.392197554,France,N/A
+1255,,May,1182,5,5-1182,St. Yriez,,45.516667,1.2,France,in Limousin.  Likely to be Saint-Yrieix-la-Perche.#
+1256,,May,1182,5,5-1182,Pierre-Buffière,,45.6956,1.36,France,N/A
+1257,24,June,1182,6,24-6-1182,Grandmont ,,49.42574104,1.097166189,France,N/A
+1258,1,July,1182,7,1-7-1182,Périgueux,,45.1929,0.7217,France,N/A
+1259,1,July,1182,7,1-7-1182,Limoges,,45.8353,1.2625,France,N/A
+1260,2,July,1182,7,2-7-1182,Limoges,,45.8353,1.2625,France,N/A
+1261,3,July,1182,7,3-7-1182,Limoges,,45.8353,1.2625,France,N/A
+1262,4,July,1182,7,4-7-1182,Limoges,,45.8353,1.2625,France,N/A
+1263,5,July,1182,7,5-7-1182,Limoges,,45.8353,1.2625,France,N/A
+1264,6,July,1182,7,6-7-1182,Limoges,,45.8353,1.2625,France,N/A
+1265,7,July,1182,7,7-7-1182,Limoges,,45.8353,1.2625,France,N/A
+1266,8,July,1182,7,8-7-1182,Limoges,,45.8353,1.2625,France,N/A
+1267,,August,1182,8,8-1182,Normandy,,48.88,0.17,France,N/A
+1268,,August,1182,8,8-1182,Argentan,,48.75,-0.02,France,N/A
+1269,,December,1182,12,12-1182,Caen,,49.18,-0.37,France,N/A
+1270,1,January,1183,1,1-1-1183,Le Mans,,48.0077,0.1984,France,N/A
+1271,,February,1183,2,2-1183,Limoges,,45.8353,1.2625,France,N/A
+1272,,February,1183,2,2-1183,Aixe,,45.7972,1.1367,France,N/A
+1273,1,March,1183,3,1-3-1183,Limoges,,45.8353,1.2625,France,N/A
+1274,8,March,1183,3,8-3-1183,Poitiers,,46.58,0.34,France,Appears as 'Poictiers' in text
+1275,,March,1183,3,3-1183,Angers,,47.473612,-0.554167,France,Appears as 'Angiers' in the text
+1276,,March,1183,3,3-1183,Mirebeau,,46.7858,0.1825,France,Appears as 'Mirabel' in the text and also 'Mirebeau' in the index
+1277,17,April,1183,4,17-4-1183,Limoges,,45.8353,1.2625,France,N/A
+1278,19,April,1183,4,19-4-1183,Limoges,,45.8353,1.2625,France,N/A
+1279,8,May,1183,5,8-5-1183,Gisors,,49.2811,1.7772,France,"The King holds a conference with Philip of France, probably at Gisors."
+1280,,July,1183,7,7-1183,Angers,,47.473612,-0.554167,France,Appears as 'Angiers' in the text
+1281,,,1183,,1183,Gorron,,48.4125,-0.8114,France,N/A
+1282,,October,1183,10,10-1183,Lyons-la-Forêt,,49.4003,1.4769,France,N/A
+1283,,October,1183,10,10-1183,Bonneville sur Touques,,49.3389,0.1206,France,Appears as 'Bonneville sur Touque' in the text
+1284,,November,1183,11,11-1183,Rouen,,49.442778,1.088611,France,N/A
+1285,,December,1183,12,12-1183,Gisors,,49.2811,1.7772,France,N/A
+1286,,December,1183,12,12-1183,Valognes,,49.52,-1.47,France,N/A
+1287,25,December,1183,12,25-12-1183,Le Mans,,48.0077,0.1984,France,N/A
+1288,1,January,1184,1,1-1-1184,Le Mans,,48.0077,0.1984,France,King Henry probably at Le Mans.
+1289,,,1184,,1184,Limoges,,45.8353,1.2625,France,N/A
+1290,,,1184,,1184,Évreux,,49.02,1.15,France,Appears as 'Evreux' in the text
+1291,,May,1184,5,5-1184,Rouen,,49.442778,1.088611,France,N/A
+1292,c.5,June,1184,6,c.5-6-1184,Choisi,,,,France,N/A
+1293,10,June,1184,6,10-6-1184,Wissant (Witsand),,50.8861,1.6636,France,N/A
+1294,,June,1184,6,6-1184,Dover,TR3161341898,51.1295,1.3089,England,N/A
+1295,c.13,June,1184,6,c.13-6-1184,Canterbury,TR1454057430,51.275608,1.0745524,England,N/A
+1296,,June,1184,6,6-1184,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+1297,22,July,1184,7,22-7-1184,Worcester,SO8496354929,52.192,-2.22,England,N/A
+1298,,July,1184,7,7-1184,Gloucester,SO8320018600,51.865722,-2.2453868,England,N/A
+1299,25,July,1184,7,25-7-1184,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1300,5,August,1184,8,5-8-1184,Reading,SU7134673352,51.454167,-0.973056,England,N/A
+1301,16,August,1184,8,16-8-1184,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+1302,c.21,August,1184,8,c.21-8-1184,Dover,TR3161341898,51.1295,1.3089,England,N/A
+1303,,August,1184,8,8-1184,Canterbury,TR1454057430,51.275608,1.0745524,England,N/A
+1304,,August,1184,8,8-1184,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+1305,21,October,1184,10,21-10-1184,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+1306,22,October,1184,10,22-10-1184,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+1307,23,October,1184,10,23-10-1184,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+1308,c.25,November,1184,11,c.25-11-1184,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+1309,13,December,1184,12,13-12-1184,Westminster,TQ3016079670,51.500988,-0.12617168,England,N/A
+1310,14,December,1184,12,14-12-1184,Canterbury,TR1454057430,51.275608,1.0745524,England,N/A
+1311,15,December,1184,12,15-12-1184,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+1312,16,December,1184,12,16-12-1184,Westminster,TQ3016079670,51.500988,-0.12617168,England,N/A
+1313,,December,1184,12,12-1184,Westminster,TQ3016079670,51.500988,-0.12617168,England,N/A
+1314,25,December,1184,12,25-12-1184,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+1315,c.31,December,1184,12,c.31-12-1184,Guildford,SU9976049312,51.234280,-0.57249337,England,Also appears as 'Geldeford' in the text
+1316,1,January,1185,1,1-1-1185,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1317,2,January,1185,1,2-1-1185,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1318,3,January,1185,1,3-1-1185,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1319,4,January,1185,1,4-1-1185,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1320,5,January,1185,1,5-1-1185,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1321,6,January,1185,1,6-1-1185,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1322,25,January,1185,1,25-1-1185,Melkesham,ST9039463613,51.371,-2.138,England,N/A
+1323,,February,1185,2,2-1185,Clipston,SK5977264026,53.17,-1.1073,England,N/A
+1324,,February,1185,2,2-1185,Nottingham,SK5700040000,52.954357,-1.1530111,England,N/A
+1325,17,March,1185,3,17-3-1185,Reading,SU7134673352,51.454167,-0.973056,England,The King meets Patriarch Heraclius at Reading.
+1326,18,March,1185,3,18-3-1185,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+1327,,March,1185,3,3-1185,Clerkenwell,TQ3151582455,51.525705,-0.10562195,England,N/A
+1328,,March,1185,3,3-1185,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+1329,,March,1185,3,3-1185,Westminster,TQ3016079670,51.500988,-0.12617168,England,N/A
+1330,31,March,1185,3,31-3-1185,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+1331,,,1185,,1185,Chipping Campden,SP1515239359,52.052,-1.779,England,N/A
+1332,10,April,1185,4,10-4-1185,Dover,TR3161341898,51.1295,1.3089,England,N/A
+1333,16,April,1185,4,16-4-1185,Wissant (Witsand),,50.8861,1.6636,France,N/A
+1334,21,April,1185,4,21-4-1185,Rouen,,49.442778,1.088611,France,N/A
+1335,1,May,1185,5,1-5-1185,Vaudreuil,,49.2569,1.2067,France,N/A
+1336,,June,1185,6,6-1185,Normandy,,48.88,0.17,France,N/A
+1337,,July,1185,7,7-1185,Normandy,,48.88,0.17,France,N/A
+1338,,August,1185,8,8-1185,Normandy,,48.88,0.17,France,N/A
+1339,29,September,1185,9,29-9-1185,Normandy,,48.88,0.17,France,N/A
+1340,30,September,1185,9,30-9-1185,Normandy,,48.88,0.17,France,N/A
+1341,7,November,1185,11,7-11-1185,Aumale,,49.7714,1.7531,France,Aumâle alias Albemarle.
+1342,25,December,1185,12,25-12-1185,Domfront,,48.5194,-0.7564,France,Appears as 'Damfront' in the text and 'Domfront' in the index
+1343,c.,February,1186,2,c.2-1186,Gisors,,49.2811,1.7772,France,N/A
+1344,c.26,February,1186,2,c.26-2-1186,Normandy,,48.88,0.17,France,N/A
+1345,10,March,1186,3,10-3-1186,Gisors,,49.2811,1.7772,France,N/A
+1346,c.25,March,1186,3,c.25-3-1186,Normandy,,48.88,0.17,France,N/A
+1347,c.13,April,1186,4,c.13-4-1186,Normandy,,48.88,0.17,France,N/A
+1348,26,April,1186,4,26-4-1186,Barfleur,,49.6711,-1.2633,France,N/A
+1349,27,April,1186,4,27-4-1186,Southampton,SU4189211677,50.9025,-1.404167,England,N/A
+1350,c.28,April,1186,4,c.28-4-1186,Merewell,SU5066421819,50.993,-1.278,England,Likely to be Marwell College
+1351,c.30,April,1186,4,c.30-4-1186,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1352,25,May,1186,5,25-5-1186,Eynsham,SP4311109383,51.781,-1.375,England,N/A
+1353,,May,1186,5,5-1186,Oxford,SP5130006100,51.751253,-1.2582674,England,N/A
+1354,,May,1186,5,5-1186,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+1355,1,June,1186,6,1-6-1186,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+1356,1,July,1186,7,1-7-1186,Northampton,SP7549060562,52.238083,-0.89592755,England,N/A
+1357,,July,1186,7,7-1186,Nottingham,SK5700040000,52.954357,-1.1530111,England,N/A
+1358,,July,1186,7,7-1186,Carlisle,NY3954755548,54.891,-2.944,England,N/A
+1359,,July,1186,7,7-1186,Kinver,SO8450683492,52.4488,-2.228,England,N/A
+1360,15,July,1186,7,15-7-1186,Feckenham,SP0083161317,52.250033,-1.989251,England,N/A
+1361,c.25,August,1186,8,c.25-8-1186,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+1362,5,September,1186,9,5-9-1186,Woodstock,SP4449616513,51.845,-1.354,England,A great Council held by the King at Woodstock.
+1363,9,September,1186,9,9-9-1186,Marlborough,SU1887169033,51.42,-1.73,England,N/A
+1364,14,September,1186,9,14-9-1186,Marlborough,SU1887169033,51.42,-1.73,England,The King holds a great Council at Marlborough.
+1365,29,September,1186,9,29-9-1186,Woodstock,SP4449616513,51.845,-1.354,England,The King was probably at Woodstock.
+1366,30,September,1186,9,30-9-1186,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+1367,c.2,October,1186,10,c.2-10-1186,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1368,9,October,1186,10,9-10-1186,Reading,SU7134673352,51.454167,-0.973056,England,N/A
+1369,30,November,1186,11,30-11-1186,Amesbury,SU1509841720,51.174,-1.784,England,N/A
+1370,25,December,1186,12,25-12-1186,Guildford,SU9976049312,51.234280,-0.57249337,England,Also appears as 'Gildeford' in the text.
+1371,26,December,1186,12,26-12-1186,Guildford,SU9976049312,51.234280,-0.57249337,England,N/A
+1372,1,January,1187,1,1-1-1187,Westminster,TQ3016079670,51.500988,-0.12617168,England,N/A
+1373,10,February,1187,2,10-2-1187,Chilham,TR0676353590,51.244,0.961,England,N/A
+1374,11,February,1187,2,11-2-1187,Canterbury,TR1454057430,51.275608,1.0745524,England,N/A
+1375,,February,1187,2,2-1187,Clarendon,SU1820130173,51.0706,-1.7416,England,N/A
+1376,27,February,1187,2,27-2-1187,Dover,TR3161341898,51.1295,1.3089,England,N/A
+1377,28,February,1187,2,28-2-1187,Wissant (Witsand),,50.8861,1.6636,France,N/A
+1378,,March,1187,3,3-1187,Hesdin ,,50.375,2.0375,France,N/A
+1379,,March,1187,3,3-1187,Driencourt,,49.9592,3.0106,France,Appears as 'Drincourt' in the text
+1380,,March,1187,3,3-1187,Aumale,,49.7714,1.7531,France,Aumâle alias Albemarle.
+1381,5,April,1187,4,5-4-1187,Gué St. Remy,,48.7625,1.241944,France,N/A
+1382,23,June,1187,6,23-6-1187,Châteauroux,,46.8103,1.6911,France,N/A
+1383,28,August,1187,8,28-8-1187,Alençon,,48.4306,0.0931,France,N/A
+1384,,September,1187,9,9-1187,Angers,,47.473612,-0.554167,France,N/A
+1385,,September,1187,9,9-1187,Brittany,,48,-3,France,Appears as 'Bretagne' in the text
+1386,,September,1187,9,9-1187,Morlaix,,48.5783,-3.8267,France,"Appears as both 'Montreieis', 'Montreleis' and Castle of Mons Relaxus in the text.  "
+1387,30,September,1187,9,30-9-1187,Brittany,,48,-3,France,Appears as 'Bretagne' in the text
+1388,c.,November,1187,11,c.11-1187,Caen,,49.18,-0.37,France,The King is supposed to have been at Caen.
+1389,1,November,1187,11,1-11-1187,Bur-le-Roi,,49.2272,-0.7736,France,Appears as 'Bur Le Roi' in the text
+1390,2,November,1187,11,2-11-1187,Bur-le-Roi,,49.2272,-0.7736,France,Appears as 'Bur Le Roi' in the text
+1391,3,November,1187,11,3-11-1187,Bur-le-Roi,,49.2272,-0.7736,France,Appears as 'Bur Le Roi' in the text
+1392,4,November,1187,11,4-11-1187,Bur-le-Roi,,49.2272,-0.7736,France,Appears as 'Bur Le Roi' in the text
+1393,5,November,1187,11,5-11-1187,Bur-le-Roi,,49.2272,-0.7736,France,Appears as 'Bur Le Roi' in the text
+1394,6,November,1187,11,6-11-1187,Bur-le-Roi,,49.2272,-0.7736,France,Appears as 'Bur Le Roi' in the text
+1395,7,November,1187,11,7-11-1187,Bur-le-Roi,,49.2272,-0.7736,France,Appears as 'Bur Le Roi' in the text
+1396,8,November,1187,11,8-11-1187,Bur-le-Roi,,49.2272,-0.7736,France,Appears as 'Bur Le Roi' in the text
+1397,9,November,1187,11,9-11-1187,Bur-le-Roi,,49.2272,-0.7736,France,Appears as 'Bur Le Roi' in the text
+1398,10,November,1187,11,10-11-1187,Bur-le-Roi,,49.2272,-0.7736,France,Appears as 'Bur Le Roi' in the text
+1399,25,December,1187,12,25-12-1187,Caen,,49.18,-0.37,France,N/A
+1400,31,December,1187,12,31-12-1187,Caen,,49.18,-0.37,France,The King still probably at Caen.
+1401,c.1,January,1188,1,c.1-1-1188,Cherbourg,,49.63,-1.62,France,N/A
+1402,4,January,1188,1,4-1-1188,Barfleur,,49.6711,-1.2633,France,N/A
+1403,13,January,1188,1,13-1-1188,Between Gisors and Trie,,49.27897273,1.8129348,France,N/A
+1404,14,January,1188,1,14-1-1188,Between Gisors and Trie,,49.27897273,1.8129348,France,N/A
+1405,15,January,1188,1,15-1-1188,Between Gisors and Trie,,49.27897273,1.8129348,France,N/A
+1406,16,January,1188,1,16-1-1188,Between Gisors and Trie,,49.27897273,1.8129348,France,N/A
+1407,17,January,1188,1,17-1-1188,Between Gisors and Trie,,49.27897273,1.8129348,France,N/A
+1408,18,January,1188,1,18-1-1188,Between Gisors and Trie,,49.27897273,1.8129348,France,N/A
+1409,19,January,1188,1,19-1-1188,Between Gisors and Trie,,49.27897273,1.8129348,France,N/A
+1410,20,January,1188,1,20-1-1188,Between Gisors and Trie,,49.27897273,1.8129348,France,N/A
+1411,21,January,1188,1,21-1-1188,Between Gisors and Trie,,49.27897273,1.8129348,France,N/A
+1412,23,January,1188,1,23-1-1188,Le Mans,,48.0077,0.1984,France,N/A
+1413,c.25,January,1188,1,c.25-1-1188,Alençon,,48.4306,0.0931,France,N/A
+1414,29,January,1188,1,29-1-1188,Dieppe,,49.92,1.08,France,N/A
+1415,30,January,1188,1,30-1-1188,Winchelsea,TQ9034817515,50.9251,0.7088,England,N/A
+1416,c.3,February,1188,2,c.3-2-1188,Otford,TQ5238459056,51.30969,0.18657,England,N/A
+1417,c.6,February,1188,2,c.6-2-1188,Northampton,SP7549060562,52.238083,-0.89592755,England,N/A
+1418,11,February,1188,2,11-2-1188,Geddington,SP8935383036,52.438,-0.687,England,The King holds a great Council at Geddington
+1419,,February,1188,2,2-1188,St. Edmundsbury,TL8545064155,52.243889,0.716667,England,Appears as 'St. Edmundbury' in the text
+1420,29,February,1188,2,29-2-1188,Clarendon,SU1820130173,51.0706,-1.7416,England,N/A
+1421,1,March,1188,3,1-3-1188,Cirencester,SP0230702253,51.719,-1.968,England,N/A
+1422,,,1188,,1188,Winchester,SU4779329466,51.062549,-1.3193687,England,N/A
+1423,,,1188,,1188,Kingston upon Thames,TQ1825269346,51.4103,-0.2995,England,Appears as 'Kingston on Thames' in the text
+1424,,,1188,,1188,Woodstock,SP4449616513,51.845,-1.354,England,N/A
+1425,,,1188,,1188,Clarendon,SU1820130173,51.0706,-1.7416,England,N/A
+1426,,,1188,,1188,Salisbury,SU1471230154,51.07,-1.79,England,N/A
+1427,,,1188,,1188,Windsor,SU9691277019,51.483333,-0.604167,England,N/A
+1428,5,June,1188,6,5-6-1188,London,TQ3248081340,51.515457,-0.092140265,England,N/A
+1429,14,June,1188,6,14-6-1188,Geddington,SP8935383036,52.438,-0.687,England,N/A
+1430,10,July,1188,7,10-7-1188,Salisbury,SU1471230154,51.07,-1.79,England,N/A
+1431,10,July,1188,7,10-7-1188,Portsea,SU 65632 00739,50.8025,-1.07,England,N/A
+1432,11,July,1188,7,11-7-1188,Barfleur,,49.6711,-1.2633,France,N/A
+1433,,July,1188,7,7-1188,Alençon,,48.4306,0.0931,France,N/A
+1434,16,August,1188,8,16-8-1188,Between Gisors and Trie,,49.27897273,1.8129348,France,N/A
+1435,17,August,1188,8,17-8-1188,Between Gisors and Trie,,49.27897273,1.8129348,France,N/A
+1436,18,August,1188,8,18-8-1188,Between Gisors and Trie,,49.27897273,1.8129348,France,N/A
+1437,30,August,1188,8,30-8-1188,Mantes,,48.9908,1.7172,France,N/A
+1438,31,August,1188,8,31-8-1188,Ivri,,48.885,1.457,France,Appears as 'Ivry' in the text and 'Ivri' in the index
+1439,1,September,1188,9,1-9-1188,Ivri,,48.885,1.457,France,Appears as 'Ivry' in the text and 'Ivri' in the index
+1440,29,September,1188,9,29-9-1188,The French Frontier,,,,France,N/A
+1441,,September,1188,9,9-1188,Tinchebray,,48.7636,-0.7331,France,(near Mortain)
+1442,,September,1188,9,9-1188,Rouen,,49.442778,1.088611,France,N/A
+1443,30,September,1188,9,30-9-1188,Gisors,,49.2811,1.7772,France,N/A
+1444,1,October,1188,10,1-10-1188,Gisors,,49.2811,1.7772,France,N/A
+1445,2,October,1188,10,2-10-1188,Gisors,,49.2811,1.7772,France,N/A
+1446,7,October,1188,10,7-10-1188,Châtillon,,46.3192,0.1969,France,N/A
+1447,18,November,1188,11,18-11-1188,Bonmoulins,,48.6511,0.5367,France,N/A
+1448,,November,1188,11,11-1188,Normandy,,48.88,0.17,France,N/A
+1449,,December,1188,12,12-1188,Normandy,,48.88,0.17,France,N/A
+1450,1,December,1188,12,1-12-1188,Guienne,,43.977,-0.176,France,N/A
+1451,25,December,1188,12,25-12-1188,Saumur,,47.26,-0.0769,France,N/A
+1452,31,December,1188,12,31-12-1188,Saumur,,47.26,-0.0769,France,"The King still, probably, at Saumur."
+1453,1,January,1189,1,1-1-1189,Saumur,,47.26,-0.0769,France,King Henry was probably still at Saumur.
+1454,1,February,1189,2,1-2-1189,Le Mans,,48.0077,0.1984,France,N/A
+1455,2,February,1189,2,2-2-1189,Le Mans,,48.0077,0.1984,France,N/A
+1456,3,February,1189,2,3-2-1189,Le Mans,,48.0077,0.1984,France,N/A
+1457,1,March,1189,3,1-3-1189,Tours,,47.393611,0.689167,France,N/A
+1458,2,March,1189,3,2-3-1189,Tours,,47.393611,0.689167,France,N/A
+1459,3,March,1189,3,3-3-1189,Tours,,47.393611,0.689167,France,N/A
+1460,4,March,1189,3,4-3-1189,Tours,,47.393611,0.689167,France,N/A
+1461,5,March,1189,3,5-3-1189,Tours,,47.393611,0.689167,France,N/A
+1462,6,March,1189,3,6-3-1189,Tours,,47.393611,0.689167,France,N/A
+1463,7,March,1189,3,7-3-1189,Tours,,47.393611,0.689167,France,N/A
+1464,8,March,1189,3,8-3-1189,Tours,,47.393611,0.689167,France,N/A
+1465,9,March,1189,3,9-3-1189,Tours,,47.393611,0.689167,France,N/A
+1466,10,March,1189,3,10-3-1189,Tours,,47.393611,0.689167,France,N/A
+1467,11,March,1189,3,11-3-1189,Tours,,47.393611,0.689167,France,N/A
+1468,12,March,1189,3,12-3-1189,Tours,,47.393611,0.689167,France,N/A
+1469,13,March,1189,3,13-3-1189,Tours,,47.393611,0.689167,France,N/A
+1470,14,March,1189,3,14-3-1189,Tours,,47.393611,0.689167,France,N/A
+1471,15,March,1189,3,15-3-1189,Tours,,47.393611,0.689167,France,N/A
+1472,16,March,1189,3,16-3-1189,Tours,,47.393611,0.689167,France,N/A
+1473,17,March,1189,3,17-3-1189,Tours,,47.393611,0.689167,France,N/A
+1474,18,March,1189,3,18-3-1189,Tours,,47.393611,0.689167,France,N/A
+1475,19,March,1189,3,19-3-1189,Tours,,47.393611,0.689167,France,N/A
+1476,20,March,1189,3,20-3-1189,Tours,,47.393611,0.689167,France,N/A
+1477,20,March,1189,3,20-3-1189,Le Mans,,48.0077,0.1984,France,N/A
+1478,,May,1189,5,5-1189,Montfort,,47.1983,-0.2097,France,N/A
+1479,19,May,1189,5,19-5-1189,Le Mans,,48.0077,0.1984,France,N/A
+1480,4,June,1189,6,4-6-1189,La Ferté-Bernard,,48.1875,0.6553,France,Appears as 'La Ferté Bernard' in the text
+1481,5,June,1189,6,5-6-1189,La Ferté-Bernard,,48.1875,0.6553,France,Appears as 'La Ferté Bernard' in the text
+1482,6,June,1189,6,6-6-1189,La Ferté-Bernard,,48.1875,0.6553,France,Appears as 'La Ferté Bernard' in the text
+1483,7,June,1189,6,7-6-1189,La Ferté-Bernard,,48.1875,0.6553,France,Appears as 'La Ferté Bernard' in the text
+1484,8,June,1189,6,8-6-1189,La Ferté-Bernard,,48.1875,0.6553,France,Appears as 'La Ferté Bernard' in the text
+1485,9,June,1189,6,9-6-1189,La Ferté-Bernard,,48.1875,0.6553,France,Appears as 'La Ferté Bernard' in the text
+1486,,June,1189,6,6-1189,Le Mans,,48.0077,0.1984,France,N/A
+1487,12,June,1189,6,12-6-1189,Le Mans,,48.0077,0.1984,France,N/A
+1488,13,June,1189,6,13-6-1189,Frenelles,,,,France,N/A
+1489,18,June,1189,6,18-6-1189,Savigny,,49.0506,-1.3375,France,N/A
+1490,2,July,1189,7,2-7-1189,Saumur,,47.26,-0.0769,France,N/A
+1491,c.3,July,1189,7,c.3-7-1189,Azay,,47.2622,0.4669,France,N/A
+1492,4,July,1189,7,4-7-1189,Colombières ,,,,France,(between Azay and Tours)
+1493,c.5,July,1189,7,c.5-7-1189,Chinon,,47.1678,0.2436,France,N/A
+1494,6,July,1189,7,6-7-1189,Chinon,,47.1678,0.2436,France,N/A
