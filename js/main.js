@@ -70,6 +70,7 @@ function getData(url) {
                     })
                 },
                 pointToLayer: function (geoJsonPoint, latlng) {
+                    console.log(geoJsonPoint.properties)
                     if (geoJsonPoint.properties.id < min || min === 0) {
                         min = geoJsonPoint.properties.id;
                     }
