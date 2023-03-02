@@ -1,0 +1,486 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.0897,53.2648 ]
+    },
+    "properties": {
+    "ID":1,
+    "castle":"Beaumaris",
+    "type":"Castle built or wholly rebuilt by Edward I",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.829,53.2975 ]
+    },
+    "properties": {
+    "ID":2,
+    "castle":"Deganwy",
+    "type":"Other Welsh Castle",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.825556,53.28 ]
+    },
+    "properties": {
+    "ID":3,
+    "castle":"Conway",
+    "type":"Castle built or wholly rebuilt by Edward I",
+    "town walls":"Town walls built temp. Edward I"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.464528,53.2889 ]
+    },
+    "properties": {
+    "ID":4,
+    "castle":"Rhyddlan",
+    "type":"Castle built or wholly rebuilt by Edward I",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.40978,53.3076 ]
+    },
+    "properties": {
+    "ID":5,
+    "castle":"Dyserth",
+    "type":"Other Welsh Castle",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.129956,53.251786 ]
+    },
+    "properties": {
+    "ID":6,
+    "castle":"Flint",
+    "type":"Castle built or wholly rebuilt by Edward I",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.8125,53.174444 ]
+    },
+    "properties": {
+    "ID":7,
+    "castle":"Maenan",
+    "type":"Royal Abbey",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.2769,53.1393 ]
+    },
+    "properties": {
+    "ID":8,
+    "castle":"Caernarvon",
+    "type":"Castle built or wholly rebuilt by Edward I",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.4207,53.1806 ]
+    },
+    "properties": {
+    "ID":9,
+    "castle":"Denbigh",
+    "type":"Lordship' Castle built or rebuilt temp. Edward I",
+    "town walls":"Town walls built temp. Edward I"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.01977,53.180849 ]
+    },
+    "properties": {
+    "ID":10,
+    "castle":"Hawarden",
+    "type":"Lordship' Castle built or rebuilt temp. Edward I",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.037164,53.10729 ]
+    },
+    "properties": {
+    "ID":11,
+    "castle":"Hope",
+    "type":"Castle built or wholly rebuilt by Edward I",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.8923,53.1853 ]
+    },
+    "properties": {
+    "ID":12,
+    "castle":"Chester",
+    "type":"Other Royal Castle",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.1142,53.1166 ]
+    },
+    "properties": {
+    "ID":13,
+    "castle":"Dolbardarn",
+    "type":"Other Welsh Castle",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.90809,53.05293 ]
+    },
+    "properties": {
+    "ID":14,
+    "castle":"Dolwyddelan",
+    "type":"Welsh Castle reparied by Edward I",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.3118,53.1117 ]
+    },
+    "properties": {
+    "ID":15,
+    "castle":"Ruthin",
+    "type":"Lordship' Castle built or rebuilt temp. Edward I",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.68,53.049 ]
+    },
+    "properties": {
+    "ID":16,
+    "castle":"Rhydgastell",
+    "type":"Other Welsh Castle",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.880256,53.077919 ]
+    },
+    "properties": {
+    "ID":17,
+    "castle":"Holt",
+    "type":"Lordship' Castle built or rebuilt temp. Edward I",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.15957,52.97922 ]
+    },
+    "properties": {
+    "ID":18,
+    "castle":"Dinas Bran",
+    "type":"Other Welsh Castle",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.2325,52.916 ]
+    },
+    "properties": {
+    "ID":19,
+    "castle":"Criccieth",
+    "type":"Welsh Castle reparied by Edward I",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.848835328,52.91501011 ]
+    },
+    "properties": {
+    "ID":20,
+    "castle":"Prysor",
+    "type":"Other Welsh Castle",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.11,52.86 ]
+    },
+    "properties": {
+    "ID":21,
+    "castle":"Harlech",
+    "type":"Castle built or wholly rebuilt by Edward I",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.713475,52.861453 ]
+    },
+    "properties": {
+    "ID":22,
+    "castle":"Carn Dochan",
+    "type":"Other Welsh Castle",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.089722,52.935 ]
+    },
+    "properties": {
+    "ID":23,
+    "castle":"Chirk",
+    "type":"Lordship' Castle built or rebuilt temp. Edward I",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9715,52.65818 ]
+    },
+    "properties": {
+    "ID":24,
+    "castle":"Castell-y-Bere",
+    "type":"Welsh Castle reparied by Edward I",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.158281,52.650573 ]
+    },
+    "properties": {
+    "ID":25,
+    "castle":"Pool",
+    "type":"Other Welsh Castle",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.7541,52.7077 ]
+    },
+    "properties": {
+    "ID":26,
+    "castle":"Shrewsbury",
+    "type":"Other Royal Castle",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.08968,52.41324 ]
+    },
+    "properties": {
+    "ID":27,
+    "castle":"Aberystwyth",
+    "type":"Castle built or wholly rebuilt by Edward I",
+    "town walls":"Town walls built temp. Edward I"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.252,52.5462 ]
+    },
+    "properties": {
+    "ID":28,
+    "castle":"Dolforwyn",
+    "type":"Other Welsh Castle",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.15061,52.56253 ]
+    },
+    "properties": {
+    "ID":29,
+    "castle":"Montgomery",
+    "type":"Other Royal Castle",
+    "town walls":"Town walls built temp. Edward I"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.6605,52.0815 ]
+    },
+    "properties": {
+    "ID":30,
+    "castle":"Cardigan",
+    "type":"Other Royal Castle",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.463333,52.038889 ]
+    },
+    "properties": {
+    "ID":31,
+    "castle":"Newcastle-Emlyn",
+    "type":"Other Welsh Castle",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.39855,52.14919 ]
+    },
+    "properties": {
+    "ID":32,
+    "castle":"Builth",
+    "type":"Castle built or wholly rebuilt by Edward I",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.97,51.803 ]
+    },
+    "properties": {
+    "ID":33,
+    "castle":"Haverford",
+    "type":"Lordship' Castle built or rebuilt temp. Edward I",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.306,51.855 ]
+    },
+    "properties": {
+    "ID":34,
+    "castle":"Carmarthen",
+    "type":"Other Royal Castle",
+    "town walls":"Town walls built temp. Edward I"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.017562901,51.87671622 ]
+    },
+    "properties": {
+    "ID":35,
+    "castle":"Dynevor",
+    "type":"Welsh Castle reparied by Edward I",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.101479,51.862443 ]
+    },
+    "properties": {
+    "ID":36,
+    "castle":"Dryslwyn",
+    "type":"Welsh Castle reparied by Edward I",
+    "town walls":"N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9349,51.8546 ]
+    },
+    "properties": {
+    "ID":37,
+    "castle":"Carreg Cennen",
+    "type":"Lordship' Castle built or rebuilt temp. Edward I",
+    "town walls":"N/A"
+    }
+  }
+]
+}
