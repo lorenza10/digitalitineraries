@@ -1,18 +1,14 @@
-// Initialize the map once globally
 const map = L.map('mapid', {
     zoomControl: false
 }).setView([50.546352605448064, 0.9171352255804207], 5);
 
-// Add OpenStreetMap tiles with proper attribution
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '© OpenStreetMap contributors'
 }).addTo(map);
 
-// Add zoom control at bottom left
 L.control.zoom({ position: 'bottomleft' }).addTo(map);
 
-// Create marker cluster groups for each dataset
 const markersCluster1 = L.markerClusterGroup();
 const markersCluster2 = L.markerClusterGroup();
 
@@ -20,7 +16,6 @@ let monarchLayer1 = null;
 let monarchLayer2 = null;
 
 function getData() {
-    // Remove old layers from clusters and map
     if (monarchLayer1) {
         markersCluster1.removeLayer(monarchLayer1);
         map.removeLayer(markersCluster1);
@@ -35,7 +30,6 @@ function getData() {
     const url1 = 'data/json/' + newMonarch + '.json';
     const url2 = 'data/json/' + newMonarch2 + '.json';
 
-    // Fetch and add first GeoJSON dataset
     fetch(url1)
         .then(res => res.json())
         .then(json => {
@@ -51,8 +45,7 @@ function getData() {
             markersCluster1.addLayer(monarchLayer1);
             map.addLayer(markersCluster1);
         });
-
-    // Fetch and add second GeoJSON dataset
+    
     fetch(url2)
         .then(res => res.json())
         .then(json => {
@@ -70,7 +63,6 @@ function getData() {
         });
 }
 
-// Helper function to generate popup HTML content
 function generatePopupContent(feature, selectElementId) {
     const select = document.getElementById(selectElementId);
     const selectedText = select.options[select.selectedIndex].text;
@@ -83,7 +75,6 @@ function generatePopupContent(feature, selectElementId) {
     return html;
 }
 
-// Set map height once and update on window resize
 function setMapHeight() {
     document.getElementById('mapid').style.height = window.innerHeight + 'px';
 }
