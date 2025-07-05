@@ -1,130 +1,91 @@
-function getData(url) {
-    if (map != undefined) {
-        map.remove();
+// Initialize the map once globally
+const map = L.map('mapid', {
+    zoomControl: false
+}).setView([50.546352605448064, 0.9171352255804207], 5);
+
+// Add OpenStreetMap tiles with proper attribution
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '© OpenStreetMap contributors'
+}).addTo(map);
+
+// Add zoom control at bottom left
+L.control.zoom({ position: 'bottomleft' }).addTo(map);
+
+// Create marker cluster groups for each dataset
+const markersCluster1 = L.markerClusterGroup();
+const markersCluster2 = L.markerClusterGroup();
+
+let monarchLayer1 = null;
+let monarchLayer2 = null;
+
+function getData() {
+    // Remove old layers from clusters and map
+    if (monarchLayer1) {
+        markersCluster1.removeLayer(monarchLayer1);
+        map.removeLayer(markersCluster1);
     }
-    var container = L.DomUtil.get('mapid');
-    if (container != null) {
-        container._leaflet_id = null;
+    if (monarchLayer2) {
+        markersCluster2.removeLayer(monarchLayer2);
+        map.removeLayer(markersCluster2);
     }
-    $('#mapid').height(window.innerHeight);
-    var map = L.map('mapid', {
-        zoomControl: false
-    })
-        .setView([50.546352605448064, 0.9171352255804207,], 5);
 
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?access_token={accessToken}', {
-        attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-        id: 'mapbox/streets-v11',
-        accessToken: 'accessToken'
-    }).addTo(map);
+    const newMonarch = document.getElementById('monarch').value;
+    const newMonarch2 = document.getElementById('monarch2').value;
+    const url1 = 'data/json/' + newMonarch + '.json';
+    const url2 = 'data/json/' + newMonarch2 + '.json';
 
-    L.control.zoom({
-        position: 'bottomleft'
-    }).addTo(map);
-
-    var monarchGeoJSON = false;
-    var newMonarch = document.getElementById('monarch').value;
-    var newMonarch2 = document.getElementById('monarch2').value;
-    var url = 'data/json/' + newMonarch + '.json'
-    var url2 = 'data/json/' + newMonarch2 + '.json'
-    fetch(url, {
-        method: 'GET'
-    })
+    // Fetch and add first GeoJSON dataset
+    fetch(url1)
         .then(res => res.json())
         .then(json => {
-            var min = 0;
-            var max = 0;
-            monarchGeoJSON = L.geoJSON(json, {
-                style: function (feature) {
-                    return {
-                        fillOpacity: 0.65,
-                        fillColor: 'blue',
-                        color: '#000',
-                        opacity: 1
-                    };
+            monarchLayer1 = L.geoJSON(json, {
+                style: { color: '#000', weight: 1, fillColor: 'blue', fillOpacity: 0.65 },
+                onEachFeature: (feature, layer) => {
+                    layer.on('mouseover', () => layer.setStyle({ fillOpacity: 0.3 }));
+                    layer.on('mouseout', () => layer.setStyle({ fillOpacity: 0.65 }));
+                    layer.bindPopup(generatePopupContent(feature, 'monarch'));
                 },
-                onEachFeature: function (feature, layer) {
-                    layer.on('mouseover', function () {
-                        layer.setStyle({
-                            fillOpacity: 0.3
-                        })
+                pointToLayer: (feature, latlng) => L.circleMarker(latlng, { radius: 6, fillColor: 'blue', color: '#000', weight: 1, fillOpacity: 0.65 })
+            });
+            markersCluster1.addLayer(monarchLayer1);
+            map.addLayer(markersCluster1);
+        });
 
-                    })
-                    layer.on('mouseout', function () {
-                        layer.setStyle({
-                            fillOpacity: 0.65
-                        })
-                        $('#country-information').html(layer.feature.properties.name + '(' + layer.feature.id + ')');
-                    })
-                },
-                pointToLayer: function (geoJsonPoint, latlng) {
-                    if (geoJsonPoint.properties.id < min || min === 0) {
-                        min = geoJsonPoint.properties.id;
-                    }
-                    if (geoJsonPoint.properties.id > max) {
-                        max = geoJsonPoint.properties.id;
-                    }
-                    monarchName = document.getElementById('monarch')
-                    var selectedText = monarchName.options[monarchName.selectedIndex].text;
-                    var html = selectedText;
-                    var arrayOfProps = ['location', 'id', 'date', 'comments'];
-                    arrayOfProps.forEach(function (prop) {
-                        html += '<br/>' + '<strong>' + prop + '</strong>' + ': ' + geoJsonPoint.properties[prop]
-                    })
-                    return L.circle(latlng, 6000).bindPopup(html);
-                },
-            }).addTo(map);
-        })
-
-    fetch(url2, {
-        method: 'GET'
-    })
+    // Fetch and add second GeoJSON dataset
+    fetch(url2)
         .then(res => res.json())
         .then(json => {
-            var min = 0;
-            var max = 0;
-            monarchGeoJSON = L.geoJSON(json, {
-                style: function (feature) {
-                    return {
-                        fillOpacity: 0.5,
-                        fillColor: 'red',
-                        color: '#000',
-                        opacity: 1
-                    };
+            monarchLayer2 = L.geoJSON(json, {
+                style: { color: '#000', weight: 1, fillColor: 'red', fillOpacity: 0.5 },
+                onEachFeature: (feature, layer) => {
+                    layer.on('mouseover', () => layer.setStyle({ fillOpacity: 0.15 }));
+                    layer.on('mouseout', () => layer.setStyle({ fillOpacity: 0.5 }));
+                    layer.bindPopup(generatePopupContent(feature, 'monarch2'));
                 },
-                onEachFeature: function (feature, layer) {
-                    layer.on('mouseover', function () {
-                        layer.setStyle({
-                            fillOpacity: 0.15
-                        })
+                pointToLayer: (feature, latlng) => L.circleMarker(latlng, { radius: 6, fillColor: 'red', color: '#000', weight: 1, fillOpacity: 0.5 })
+            });
+            markersCluster2.addLayer(monarchLayer2);
+            map.addLayer(markersCluster2);
+        });
+}
 
-                    })
-                    layer.on('mouseout', function () {
-                        layer.setStyle({
-                            fillOpacity: 0.5
-                        })
-                        $('#country-information').html(layer.feature.properties.name + '(' + layer.feature.id + ')');
-                    })
-                },
-                pointToLayer: function (geoJsonPoint, latlng) {
-                    if (geoJsonPoint.properties.id < min || min === 0) {
-                        min = geoJsonPoint.properties.id;
-                    }
-                    if (geoJsonPoint.properties.id > max) {
-                        max = geoJsonPoint.properties.id;
-                    }
-                    monarchName2 = document.getElementById('monarch2')
-                    var selectedText2 = monarchName2.options[monarchName2.selectedIndex].text;
-                    var html = selectedText2;
-                    var arrayOfProps = ['location', 'id', 'date', 'comments'];
-                    arrayOfProps.forEach(function (prop) {
-                        html += '<br/>' + '<strong>' + prop + '</strong>' + ': ' + geoJsonPoint.properties[prop]
-                    })
-                    return L.circle(latlng, 5000).bindPopup(html);
-                },
-            }).addTo(map);
-        })
+// Helper function to generate popup HTML content
+function generatePopupContent(feature, selectElementId) {
+    const select = document.getElementById(selectElementId);
+    const selectedText = select.options[select.selectedIndex].text;
+    let html = `<strong>${selectedText}</strong>`;
+    ['location', 'id', 'date', 'comments'].forEach(prop => {
+        if (feature.properties[prop]) {
+            html += `<br/><strong>${prop}:</strong> ${feature.properties[prop]}`;
+        }
+    });
+    return html;
+}
 
-};
-
-
+// Set map height once and update on window resize
+function setMapHeight() {
+    document.getElementById('mapid').style.height = window.innerHeight + 'px';
+}
+setMapHeight();
+window.addEventListener('resize', setMapHeight);
